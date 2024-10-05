@@ -1,0 +1,1759 @@
+{
+"status": "ok",
+"totalResults": 4123,
+-"articles": [
+-{
+-"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Fred Lambert",
+"title": "Tesla shares impressive data point about its Supercharger network",
+"description": "Tesla has shared an impressive data point about its Supercharger network: 1.4 TWh of energy delivered in a single quarter.\n\n\n\nWhat does it mean?\n\n\n\n more…",
+"url": "http://electrek.co/2024/10/04/tesla-shares-impressive-data-point-about-its-supercharger-network/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/08/Electric-vehicles-5K-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2024-10-04T15:15:30Z",
+"content": "(Source: Tesla)\r\nTesla has shared an impressive data point about its Supercharger network: 1.4 TWh of energy delivered in a single quarter.\r\nWhat does it mean?\r\nTesla shared these three new data poin… [+2309 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Slashdot.org"
+},
+"author": "feedfeeder",
+"title": "Europe Votes to Slap China-Made EVs With Tariffs—but Tesla Gets Off Easy",
+"description": "Despite opposition from Germany, the European Union will start imposing tariffs as high as 45 percent on Chinese-made electric vehicles. Elon Musk&rsquo;s marque takes the smallest hit.",
+"url": "https://slashdot.org/firehose.pl?op=view&amp;id=175190927",
+"urlToImage": null,
+"publishedAt": "2024-10-04T15:12:17Z",
+"content": "The price one pays for pursuing any profession, or calling, is an intimate\r\nknowledge of its ugly side.\r\n-- James Baldwin"
+},
+-{
+-"source": {
+"id": null,
+"name": "Jalopnik"
+},
+"author": "Logan Carter",
+"title": "RuPaul Reminds Us That Everyone Belongs In The Car Community By Showing How To Jump Start His Mercedes SL",
+"description": "Odds are, if you’re a frequent Jalopnik reader, you probably don’t need a drag queen to teach you how to jump start yourcar, but RuPaul isn’t just any old drag queen. RuPaul is a Black man, and one of the most well-known and successful queer people on the pla…",
+"url": "https://jalopnik.com/rupaul-reminds-us-that-everyone-belongs-in-the-car-comm-1851664981",
+"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cc482c1c73938b90c169e00352f21ba5.gif",
+"publishedAt": "2024-10-04T15:00:00Z",
+"content": "Odds are, if youre a frequent Jalopnik reader, you probably dont need a drag queen to teach you how to jump start your car, but RuPaul isnt just any old drag queen. RuPaul is a Black man, and one of … [+2666 chars]"
+},
+-{
+-"source": {
+"id": "wired",
+"name": "Wired"
+},
+"author": "Zeyi Yang",
+"title": "Europe Votes to Slap China-Made EVs With Tariffs—but Tesla Gets Off Easy",
+"description": "Despite opposition from Germany, the European Union will start imposing tariffs as high as 45 percent on Chinese-made electric vehicles. Elon Musk’s marque takes the smallest hit.",
+"url": "https://www.wired.com/story/europe-votes-to-slap-china-made-evs-with-tariffs-but-tesla-gets-off-easy/",
+"urlToImage": "https://media.wired.com/photos/66feb936c40d545bf64b9e82/191:100/w_1280,c_limit/dacia-gear-2042880641.jpg",
+"publishedAt": "2024-10-04T14:58:29Z",
+"content": "Just one week after Americas 100 percent tariffs on China EVs kicked in, the European Union has voted to officially approve additional tariffs for electric vehicles imported from China, making it har… [+3509 chars]"
+},
+-{
+-"source": {
+"id": "abc-news",
+"name": "ABC News"
+},
+"author": "The Associated Press",
+"title": "Elon Musk to join Trump at rally at the site of first assassination attempt",
+"description": "Billionaire Elon Musk will join Donald Trump at a rally at the site of the former president's July assassination attempt",
+"url": "https://abcnews.go.com/Politics/wireStory/elon-musk-join-trump-rally-site-assassination-attempt-114498648",
+"urlToImage": "https://i.abcnewsfe.com/a/266be626-6ae0-4abc-a942-ec3d3e394f12/wirestory_4f7d510c1b86f7cced7ca87e77876ad2_16x9.jpg?w=1600",
+"publishedAt": "2024-10-04T14:46:26Z",
+"content": "Elon Musk will join Donald Trump at his rally Saturday in Butler, the Pennsylvania city where the Republican presidential nominee survived an assassination attempt earlier this year.\r\nI will be there… [+1502 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "WFTV Orlando"
+},
+"author": "Natalie Dreier",
+"title": "Recall alert: Tesla recalls 27K Cybertrucks",
+"description": "Tesla has once again recalled its Cybertrucks. This is the fifth time the futuristic truck has been recalled since it became available in November.",
+"url": "https://www.wftv.com/news/trending/recall-alert-tesla-recalls-27k-cybertrucks/SE7CVXWPKBHIVLPR2AJNNFLXRA/",
+"urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/DSpuQRPLaTNb3wlGr_t9Ss88sJU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/4U4YYSPNIJCJDKKH64PY7HMWZE.jpeg",
+"publishedAt": "2024-10-04T14:42:26Z",
+"content": "Tesla has once again recalled its Cybertrucks. This is the fifth time the futuristic truck has been recalled since it became available in November. \r\nThe recall affects more than 27,000 trucks. The A… [+1051 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Peter Johnson",
+"title": "Hyundai’s new US-made IONIQ 5 is getting the Waymo robotaxi treatment",
+"description": "Hyundai’s upgraded 2025 IONIQ 5, hitting the US this fall, will join Waymo’s robotaxi fleet. As part of a new multi-year partnership, Hyundai is preparing to allocate a “significant” amount of IONIQ 5 models for the Waymo One robotaxi fleet.\n\n\n\n more…",
+"url": "http://electrek.co/2024/10/04/hyundais-new-ioniq-5-getting-waymo-robotaxi-treatment/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/10/Hyundais-IONIQ-5-Waymo.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2024-10-04T14:38:49Z",
+"content": "Hyundai’s upgraded 2025 IONIQ 5, hitting the US this fall, will join Waymo’s robotaxi fleet. As part of a new multi-year partnership, Hyundai is preparing to allocate a “significant” amount of IONIQ … [+2086 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Quartz India"
+},
+"author": "Rocio Fabbro",
+"title": "Mark Zuckerberg just passed Jeff Bezos to become the world's second-richest person",
+"description": "Meta co-founder and CEO Mark Zuckerberg is now the second-richest person in the world, according to the Bloomberg Billionaires Index.Read more...",
+"url": "https://qz.com/mark-zuckerberg-jeff-bezos-net-worth-worlds-richest-1851665301",
+"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/621aff08c015765c55764ae03ff9d5d4.jpg",
+"publishedAt": "2024-10-04T14:34:00Z",
+"content": "In This Story\r\nMeta co-founder and CEO Mark Zuckerberg is now the second-richest person in the world, according to the Bloomberg Billionaires Index.\r\nWith a net worth of $206 billion driven higher by… [+1712 chars]"
+},
+-{
+-"source": {
+"id": "fortune",
+"name": "Fortune"
+},
+"author": "Nick Rockel",
+"title": "Want to win Gen Z over? Plug into trends and offer convenience",
+"description": "This generation seeks brands that align with its values, says Nick Antonelli, chief marketing officer of Bread Financial.",
+"url": "https://fortune.com/2024/10/04/how-to-appeal-to-gen-z-business-retail/",
+"urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/10/GettyImages-2039525426-e1727998479882.jpeg?resize=1200,600",
+"publishedAt": "2024-10-04T14:29:46Z",
+"content": "Bread Financial, which caters to a growing number of Gen Z clients, is paying attention. In a recent national survey of some 1,700 people, the financial services firm explored how consumers from diff… [+7708 chars]"
+},
+-{
+-"source": {
+"id": "marca",
+"name": "Marca"
+},
+"author": "TBS",
+"title": "Taylor Swift is too poor to be on the Forbes rich list",
+"description": "Taylor Swift slipped off the Forbes list of billionaires in 2024 despite a highly successful year on her Eras Tour as the staggering wealth of the richest people in the world, incl",
+"url": "https://www.marca.com/en/lifestyle/music/2024/10/04/66fffae022601db1788b45b6.html",
+"urlToImage": "https://phantom-marca.unidadeditorial.es/055ec819e40478da40b6247226d925c8/resize/1200/f/webp/assets/multimedia/imagenes/2023/11/18/17003055824499.png",
+"publishedAt": "2024-10-04T14:26:17Z",
+"content": "Taylor Swift slipped off the Forbes list of billionaires in 2024 despite a highly successful year on her Eras Tour as the staggering wealth of the richest people in the world, including Amazon's Jeff… [+1883 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "The Daily Dot"
+},
+"author": "Jack Alban",
+"title": "‘I don’t care what anyone says. They are the best batteries hand down’: Man discovers Toyota car batteries are something different entirely when he peels the label",
+"description": "If you're having second thoughts about swapping out your Toyota's OEM 12-volt car battery with a 3rd party one—don't.\n\n\nKobear (@mr_kobear) peeled off the sticker from an OEM Toyota car battery in a TikTok post that garnered a whopping 2.3 million views and o…",
+"url": "https://www.dailydot.com/news/toyota-oem-12-volt-car-battery-interstate/",
+"urlToImage": "https://uploads.dailydot.com/2024/10/toyota-car-batteries.jpg?auto=compress&fm=pjpg",
+"publishedAt": "2024-10-04T14:00:00Z",
+"content": "If youre having second thoughts about swapping out your Toyotas OEM 12-volt car battery with a 3rd party onedont.\r\nKobear (@mr_kobear) peeled off the sticker from an OEM Toyota car battery in a TikTo… [+2746 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Mary Whitfill Roeloffs, Forbes Staff, \n Mary Whitfill Roeloffs, Forbes Staff\n https://www.forbes.com/sites/maryroeloffs/",
+"title": "Elon Musk Says He’ll Attend Trump Rally At Site Of Assassination Attempt: Here’s Everything They’ve Said About Working Together",
+"description": "Elon Musk, the world’s richest person, said he will attend a rally for Donald Trump at the site of an assassination attempt against the former president in July.",
+"url": "https://www.forbes.com/sites/maryroeloffs/2024/10/04/elon-musk-says-hell-attend-trump-rally-at-site-of-assassination-attempt-heres-everything-theyve-said-about-working-together/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66d718d418efede32360d1ae/0x0.jpg?format=jpg&crop=3543,1993,x0,y158,safe&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-10-04T13:54:50Z",
+"content": "Billionaire Elon Musk said he will attend a rally in Butler, Pennsylvania, to support Donald Trump as he returns to the site of an assassination attempt against him this summer, marking the first tim… [+6183 chars]"
+},
+-{
+-"source": {
+"id": "fox-news",
+"name": "Fox News"
+},
+"author": "Greg Norman",
+"title": "Elon Musk to attend Trump Pennsylvania rally at site of assassination attempt",
+"description": "SpaceX and Tesla CEO Elon Musk says he will be there on Saturday to support former President Trump when he returns to Butler, Pennsylvania, for a rally.",
+"url": "https://www.foxnews.com/world/elon-musk-attend-trump-pennsylvania-rally-site-assassination-attempt",
+"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/donald-trump-and-elon-musk.png",
+"publishedAt": "2024-10-04T13:54:44Z",
+"content": "Elon Musk says he will \"be there to support\" Donald Trump on Saturday when the former president returns to Butler, Pennsylvania to hold a rally at the site where the first assassination attempt again… [+2441 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "benzinga.com",
+"title": "Elon Musk Says 'Larry Ellison Is Awesome' After Oracle CTO's Old Video Praising Tesla CEO Resurfaces",
+"description": "Elon Musk expressed admiration for Oracle’s Chief Technological Officer Larry Ellison on Friday after an old video of the latter resurfaced.\nWhat Happened: The post highlighted Ellison’s remarks from Oracle Open World 2018, where he praised Musk’s accomplishm…",
+"url": "https://biztoc.com/x/7341da498ee8cd7d",
+"urlToImage": "https://biztoc.com/cdn/7341da498ee8cd7d_s.webp",
+"publishedAt": "2024-10-04T13:49:42Z",
+"content": "Elon Musk expressed admiration for Oracles Chief Technological Officer Larry Ellison on Friday after an old video of the latter resurfaced.What Happened: The post highlighted Ellisons remarks from Or… [+127 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "benzinga.com",
+"title": "Ahead Of Tesla Robotaxi Event, Alphabet's Waymo Partners With Hyundai For Autonomous Taxi Expansion",
+"description": "On Friday, Hyundai Motor Company (OTC:HYMTF) and Waymo by Google parent Alphabet Inc. (NASDAQ:GOOGL) (NASDAQ:GOOG) announced in a joint statement that they have entered into a multi-year strategic collaboration. The initial phase involves integrating Waymo’s …",
+"url": "https://biztoc.com/x/0c6b5633f5be2fb0",
+"urlToImage": "https://biztoc.com/cdn/0c6b5633f5be2fb0_s.webp",
+"publishedAt": "2024-10-04T13:38:06Z",
+"content": "On Friday, Hyundai Motor Company (OTC:HYMTF) and Waymo by Google parent Alphabet Inc. (NASDAQ:GOOGL) (NASDAQ:GOOG) announced in a joint statement that they have entered into a multi-year strategic co… [+135 chars]"
+},
+-{
+-"source": {
+"id": "abc-news",
+"name": "ABC News"
+},
+"author": "LORNE COOK Associated Press",
+"title": "EU countries vote to impose duties on China EVs ahead of an end-of-October deadline",
+"description": "European Union countries have voted to impose duties on imports of electric vehicles from China, as talks continue between Brussels and Beijing to end the standoff before an end-of-October deadline",
+"url": "https://abcnews.go.com/International/wireStory/eu-countries-vote-impose-duties-china-evs-ahead-114495223",
+"urlToImage": "https://i.abcnewsfe.com/a/017b0dc8-20df-4d21-9eb1-74c9b0dc6b10/wirestory_1ae2ff03f316de858d077595f9cc148b_16x9.jpg?w=1600",
+"publishedAt": "2024-10-04T13:34:15Z",
+"content": "BRUSSELS -- European Union countries on Friday voted to impose duties on imports of electric vehicles from China, as talks continued between Brussels and Beijing to find an amicable solution to their… [+3653 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "The Daily Dot"
+},
+"author": "Angela Andaloro",
+"title": "Tired Of Living Through Major Historical Events: Some memes",
+"description": "The Tired Of Living Through Major Historical Events meme addresses the constant churn of the 24-hour news cycle, often with overwhelming or upsetting news stories as the most prominent. At one time, it was common to refer to certain events as \"historical even…",
+"url": "https://www.dailydot.com/memes/tired-of-living-through-major-historical-events-some-memes/",
+"urlToImage": "https://uploads.dailydot.com/2024/09/tired-of-living-through-major-historical-events-meme.jpg?auto=compress&fm=pjpg",
+"publishedAt": "2024-10-04T13:29:42Z",
+"content": "The Tired Of Living Through Major Historical Events meme addresses the constant churn of the 24-hour news cycle, often with overwhelming or upsetting news stories as the most prominent. At one time, … [+1504 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Research and Markets",
+"title": "Electric Vehicle Maintenance Market Set for Remarkable Growth, Forecasts Significant Expansion - Global Long-term Forecast to 2028 and 2033",
+"description": "Dublin, Oct. 04, 2024 (GLOBE NEWSWIRE) -- The \"Electric Vehicle Maintenance Market Report 2024\" report has been added to ResearchAndMarkets.com's offering. The global electric vehicle maintenance market is experiencing a significant surge, expanding to a valu…",
+"url": "https://www.globenewswire.com/news-release/2024/10/04/2958373/28124/en/Electric-Vehicle-Maintenance-Market-Set-for-Remarkable-Growth-Forecasts-Significant-Expansion-Global-Long-term-Forecast-to-2028-and-2033.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+"publishedAt": "2024-10-04T13:16:00Z",
+"content": "Dublin, Oct. 04, 2024 (GLOBE NEWSWIRE) -- The \"Electric Vehicle Maintenance Market Report 2024\" report has been added to ResearchAndMarkets.com's offering.\r\nThe global electric vehicle maintenance ma… [+4150 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "AutoExpress"
+},
+"author": "Tom Jervis",
+"title": "1 in 5 new 74-plate cars is an EV, as September sees record electric car sales",
+"description": "Over 56,000 new electric cars hit the road last month, although the UK car industry doubts the sustainability of the discounts on offer",
+"url": "https://www.autoexpress.co.uk/consumer-news/364549/1-5-new-74-plate-cars-ev-september-sees-record-electric-car-sales",
+"urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1727955499/autoexpress/2024/10/Tesla Model Y update 2024-14.jpg",
+"publishedAt": "2024-10-04T13:15:23Z",
+"content": "The dips in registrations for traditional ICE cars in favour of electrified alternatives can be partly explained by the fact that fleet sales underpinned the majority of new-car registrations in Sept… [+1540 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Roanoke Times"
+},
+"author": "Lee National Newsroom, The Associated Press",
+"title": "Dockworkers suspend strike; Mets stun Brewers to advance | Hot off the Wire podcast",
+"description": " Get the latest national, international, sports and entertainment news on our daily podcast.",
+"url": "https://roanoke.com/news/nation-world/dockworkers-suspend-strike-mets-stun-brewers-to-advance-hot-off-the-wire-podcast/article_bec6ae04-1e22-5799-a493-dcf66a74889f.html",
+"urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/b/ec/bec6ae04-1e22-5799-a493-dcf66a74889f/66ffd88c0e22b.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+"publishedAt": "2024-10-04T13:15:00Z",
+"content": "<ul><li>Dockworkers' union suspend strike until Jan. 15 to allow time to negotiate new contract.</li><li>President Joe Biden is pledging support to those recovering from the devastation of Hurricane … [+2377 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Richmond.com"
+},
+"author": "Lee National Newsroom, The Associated Press",
+"title": "Dockworkers suspend strike; Mets stun Brewers to advance | Hot off the Wire podcast",
+"description": " Get the latest national, international, sports and entertainment news on our daily podcast.",
+"url": "https://richmond.com/news/nation-world/dockworkers-suspend-strike-mets-stun-brewers-to-advance-hot-off-the-wire-podcast/article_c3f2a7c2-cfd6-5695-ad91-688bd151d4c3.html",
+"urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/3f/c3f2a7c2-cfd6-5695-ad91-688bd151d4c3/66ffd88bf03ff.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+"publishedAt": "2024-10-04T13:15:00Z",
+"content": "<ul><li>Dockworkers' union suspend strike until Jan. 15 to allow time to negotiate new contract.</li><li>President Joe Biden is pledging support to those recovering from the devastation of Hurricane … [+2336 chars]"
+},
+-{
+-"source": {
+"id": "rt",
+"name": "RT"
+},
+"author": "RT",
+"title": "EU makes move towards ‘trade war’ with Beijing",
+"description": "The European Commission says member states have backed steep tariffs on Chinese-made electric cars Read Full Article at RT.com",
+"url": "https://www.rt.com/news/605252-eu-tariffs-china-trade-war/",
+"urlToImage": "https://mf.b37mrtl.ru/files/2024.10/article/66ffe67e203027501468d9c8.jpg",
+"publishedAt": "2024-10-04T13:14:27Z",
+"content": "The European Commission’s decision to impose tariffs on battery electric vehicles (BEVs) from China has received “the necessary support” from EU members, according to a statement on the commission’s … [+2191 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Research and Markets",
+"title": "EV Charging Panelboard Market to Surge, Reaching $7.25 Billion in 2024 - Global Long-term Forecast to 2028 and 2033",
+"description": "Dublin, Oct. 04, 2024 (GLOBE NEWSWIRE) -- The \"Electric Vehicle (EV) Charging Panelboard Market Report 2024\" report has been added to ResearchAndMarkets.com's offering.",
+"url": "https://www.globenewswire.com/news-release/2024/10/04/2958366/28124/en/EV-Charging-Panelboard-Market-to-Surge-Reaching-7-25-Billion-in-2024-Global-Long-term-Forecast-to-2028-and-2033.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+"publishedAt": "2024-10-04T13:08:00Z",
+"content": "Dublin, Oct. 04, 2024 (GLOBE NEWSWIRE) -- The \"Electric Vehicle (EV) Charging Panelboard Market Report 2024\" report has been added to ResearchAndMarkets.com's offering.\r\nIn a robust display of techno… [+4987 chars]"
+},
+-{
+-"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "Reuters",
+"title": "EU presses ahead with Chinese EV tariffs after divided vote",
+"description": "The EU will introduce tariffs on China-made electric vehicles, despite Germany's objections. The tariffs will range up to 45% and will last for five years to counter unfair Chinese subsidies. A compromise on sales prices is being explored, but this has raised…",
+"url": "https://economictimes.indiatimes.com/industry/renewables/eu-presses-ahead-with-chinese-ev-tariffs-after-divided-vote/articleshow/113942862.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-113942986,width-1200,height-630,imgsize-142254,overlay-economictimes/photo.jpg",
+"publishedAt": "2024-10-04T12:57:38Z",
+"content": "The European Union will press ahead with hefty tariffs on China-made electric vehicles, the EU executive said on Friday, even after the bloc's largest economy Germany rejected them, exposing a rift o… [+4566 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Securityaffairs.com"
+},
+"author": "Pierluigi Paganini",
+"title": "New Perfctl Malware targets Linux servers in cryptomining campaign",
+"description": "perfctl malware targets misconfigured Linux servers to deploy cryptocurrency miners and proxyjacking software in an ongoing campaign. Aqua Nautilus researchers shed light on a Linux malware, dubbed perfctl malware, that over the past 3-4 years targeted miscon…",
+"url": "https://securityaffairs.com/169351/malware/perfctl-malware-targets-misconfigured-linux-servers.html",
+"urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/10/image-8.png",
+"publishedAt": "2024-10-04T12:49:39Z",
+"content": "New Perfctl Malware targets Linux servers in cryptomining campaign\r\n | Microsoft and DOJ seized the attack infrastructure used by Russia-linked Callisto Group\r\n | Dutch police breached by a state act… [+106141 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Jo Borrás",
+"title": "Some of the best EV deals at your local Drive Electric Week event [part 3]",
+"description": "It’s national Drive Electric Week, and there are a ton of great events showcasing EVs happening all across the country. Yesterday, I spent a few hours at my local event (Chicago Drives Electric), to get a first-hand look at some of the best new EV deals on th…",
+"url": "http://electrek.co/2024/10/04/some-of-the-best-ev-deals-at-your-local-drive-electric-week-event-part-3/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/10/ariya.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2024-10-04T12:45:00Z",
+"content": "It’s national Drive Electric Week, and there are a ton of great events showcasing EVs happening all across the country. Yesterday, I spent a few hours at my local event (Chicago Drives Electric), to … [+5075 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Tistory.com"
+},
+"author": "T.B",
+"title": "김건희 게이트(Rolex Gate) 175 (feat. Trump Stakeholder)",
+"description": "Here are some of the key moments that made Benjamin Netanyahu the political figure he is today https://t.co/itbMaqwyzh— Sky News (@SkyNews) October 4, 2024 Could your olive oil be unfit for consumption? That’s the current scandal across Europe @lararhiann…",
+"url": "https://ryueyes11.tistory.com/511049",
+"urlToImage": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbmsyHl%2FbtsJVpWdNEn%2FP2oShHqWK2vbK8IHgch8f0%2Fimg.jpg",
+"publishedAt": "2024-10-04T12:33:05Z",
+"content": "Here are some of the key moments that made Benjamin Netanyahu the political figure he is today https://t.co/itbMaqwyzh\r\n— Sky News (@SkyNews) October 4, 2024\r\nCould your olive oil be unfit for consum… [+14341 chars]"
+},
+-{
+-"source": {
+"id": "abc-news",
+"name": "ABC News"
+},
+"author": "LORNE COOK Associated Press",
+"title": "EU countries vote to impose duties on China EVs ahead of an end-of-October deadline",
+"description": "European Union countries have voted to impose duties on imports of electric vehicles from China, as talks continue between Brussels and Beijing to end the standoff before an end-of-October deadline",
+"url": "https://abcnews.go.com/Business/wireStory/eu-countries-vote-impose-duties-china-evs-ahead-114495224",
+"urlToImage": "https://i.abcnewsfe.com/a/017b0dc8-20df-4d21-9eb1-74c9b0dc6b10/wirestory_1ae2ff03f316de858d077595f9cc148b_16x9.jpg?w=1600",
+"publishedAt": "2024-10-04T12:31:02Z",
+"content": "BRUSSELS -- European Union countries on Friday voted to impose duties on imports of electric vehicles from China, as talks continued between Brussels and Beijing to find an amicable solution to their… [+3653 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Newser"
+},
+"author": "Arden Dier",
+"title": "Trump's Return to Fateful Rally Site Will Include Special Guest",
+"description": "Elon Musk will be in Butler, Pennsylvania, on Saturday to watch Donald Trump's return to the place he was shot . \"I will be there to support!\" the world's richest person, and CEO of Tesla and SpaceX, wrote Thursday on X, where he's lately been complaining abo…",
+"url": "https://www.newser.com/story/357309/trumps-return-to-fateful-rally-site-will-include-special-guest.html",
+"urlToImage": "https://img1-azrcdn.newser.com/image/1563978-12-20241004080201.jpeg",
+"publishedAt": "2024-10-04T12:29:00Z",
+"content": "Elon Musk will be in Butler, Pennsylvania, on Saturday to watch Donald Trump's return to the place he was shot. \"I will be there to support!\" the world's richest person, and CEO of Tesla and SpaceX, … [+1307 chars]"
+},
+-{
+-"source": {
+"id": "financial-post",
+"name": "Financial Post"
+},
+"author": "The Associated Press",
+"title": "EU countries vote to impose duties on China EVs ahead of an end-of-October deadline",
+"description": "BRUSSELS (AP) — European Union countries on Friday voted to impose duties on imports of electric vehicles from China, as talks continued between Brussels and Beijing to find an amicable solution to their trade dispute before an end-of-October deadline. Electr…",
+"url": "https://financialpost.com/pmn/eu-countries-vote-to-impose-duties-on-china-evs-ahead-of-an-end-of-october-deadline",
+"urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/10/ny107-the-associated-press.jpg",
+"publishedAt": "2024-10-04T12:27:39Z",
+"content": "Author of the article:\r\nFILE - Visitors check the China made BYD ATTO 3 at the IAA motor show in Munich, Germany, on Sept. 8, 2023.Photo by Matthias Schrader /THE ASSOCIATED PRESS\r\nArticle content\r\nB… [+6644 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Quartz India"
+},
+"author": "Rocio Fabbro",
+"title": "Mark Cuban says this is the one thing he respects most about Elon Musk",
+"description": "Despite their ideological differences, billionaire entrepreneur Mark Cuban is a fan of Elon Musk’s business acumen and willingness to take big risks on ambitious projects.Read more...",
+"url": "https://qz.com/mark-cuban-elon-musk-x-all-in-podcast-1851665174",
+"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6c2725fc51c2af8761acaa78bf8814cb.jpg",
+"publishedAt": "2024-10-04T12:26:54Z",
+"content": "In This Story\r\nDespite their ideological differences, billionaire entrepreneur Mark Cuban is a fan of Elon Musks business acumen and willingness to take big risks on ambitious projects.\r\nPut aside hi… [+2596 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "2024-10-04T12:25:07Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "fortune.com",
+"title": "Elon Musk predicts Tesla cars will be able to self-drive an entire year on their own",
+"description": "It’s a bold claim given the only empirical evidence available suggests they cannot drive for more than 125 miles on average before a driver must intervene. Read More",
+"url": "https://biztoc.com/x/101584eb81731d7d",
+"urlToImage": "https://biztoc.com/cdn/101584eb81731d7d_s.webp",
+"publishedAt": "2024-10-04T12:24:38Z",
+"content": "Its a bold claim given the only empirical evidence available suggests they cannot drive for more than 125 miles on average before a driver must intervene. Read More\r\nThis story appeared on fortune.co… [+13 chars]"
+},
+-{
+-"source": {
+"id": "fortune",
+"name": "Fortune"
+},
+"author": "Christiaan Hetzner",
+"title": "Elon Musk predicts Tesla cars will be able to self-drive an entire year on their own",
+"description": "It’s a bold claim given the only empirical evidence available suggests they cannot drive for more than 125 miles on average before a driver must intervene.",
+"url": "https://fortune.com/2024/10/04/elon-musk-tesla-fsd-robotaxi-full-self-driving/",
+"urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/10/GettyImages-2168119004-e1728043655702.jpg?resize=1200,600",
+"publishedAt": "2024-10-04T12:15:59Z",
+"content": "Tesla drivers who bought the carmakers Full Self-Driving software package can soon look forward to an entire year without ever reaching for the steering wheel once, Elon Musk says.The Tesla CEO is st… [+3375 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "news.google.com",
+"title": "Tesla’s Top Data Executive Is Leaving Days Before Robotaxi Event",
+"description": "Tesla’s Top Data Executive Is Leaving Days Before Robotaxi Event Bloomberg\nTesla’s (NASDAQ:TSLA) CIO Exit Raises Concerns Ahead of Robotaxi Reveal TipRanks\nTesla loses its long-time Chief Information Officer Electrek.co\nTesla’s top data executive Nagesh Saldi…",
+"url": "https://biztoc.com/x/13c3d8217a1da6a8",
+"urlToImage": "https://biztoc.com/cdn/802/og.png",
+"publishedAt": "2024-10-04T12:12:11Z",
+"content": "Teslas Top Data Executive Is Leaving Days Before Robotaxi Event BloombergTeslas (NASDAQ:TSLA) CIO Exit Raises Concerns Ahead of Robotaxi Reveal TipRanksTesla loses its long-time Chief Information Off… [+133 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "ETF Daily News"
+},
+"author": "MarketBeat News",
+"title": "Tesla (NASDAQ:TSLA) Receives “Underperform” Rating from Sanford C. Bernstein",
+"description": "Sanford C. Bernstein reissued their underperform rating on shares of Tesla (NASDAQ:TSLA – Free Report) in a research report released on Thursday morning, Benzinga reports. The firm currently has a $120.00 target price on the electric vehicle producer’s stock.…",
+"url": "https://www.etfdailynews.com/2024/10/04/tesla-nasdaqtsla-receives-underperform-rating-from-sanford-c-bernstein/",
+"urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/tesla-inc-logo.png?v=20221020135629&w=240&h=240&zc=2",
+"publishedAt": "2024-10-04T12:08:32Z",
+"content": "Sanford C. Bernstein reissued their underperform rating on shares of Tesla (NASDAQ:TSLA – Free Report) in a research report released on Thursday morning, Benzinga reports. The firm currently has a $1… [+5729 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Freerepublic.com"
+},
+"author": "CNBC (Business News)",
+"title": "Mark Zuckerberg is now world's second-richest person, ahead of Jeff Bezos",
+"description": "With his 13% stake in Meta, Zuckerberg's net-worth has risen by $78 billion in 2024...His net worth reached $206.2 billion on Thursday...topping the $205.1 billion net worth of Jeff Bezos...Zuckerberg now trails Tesla chief Elon Musk by roughly $50 billion...",
+"url": "https://freerepublic.com/focus/f-chat/4268849/posts",
+"urlToImage": null,
+"publishedAt": "2024-10-04T12:01:43Z",
+"content": "Skip to comments.\r\nMark Zuckerberg is now world's second-richest person, ahead of Jeff BezosCNBC (Business News) ^\r\n | 03 October 2024\r\n | Jonathan Vanian\r\nPosted on 10/04/2024 5:01:43 AM PDT by zees… [+1429 chars]"
+},
+-{
+-"source": {
+"id": "the-irish-times",
+"name": "The Irish Times"
+},
+"author": "Jack Power",
+"title": "EU pushes ahead with tariffs on Chinese electric cars",
+"description": "Heavy tariffs to be put on electric cars imported from China into the European Union",
+"url": "https://www.irishtimes.com/business/2024/10/04/eu-pushes-ahead-with-tariffs-on-chinese-electric-cars/",
+"urlToImage": "https://www.irishtimes.com/resizer/v2/G4CG7NQHGJG2BIQZVBQ3OQH2EQ.jpg?smart=true&auth=62b85c4fe27c97b0bbf16deea32c623cd3fd5e830e77b436cde37b3eadc6a11c&width=1200&height=630",
+"publishedAt": "2024-10-04T11:58:01Z",
+"content": "EU countries have voted to push ahead putting substantial tariffs on electric vehicles (EV) imported from China, despite concerns from Germany that the move could lead to a trade war with Beijing.\r\nT… [+3335 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Nabaparna Bhattacharya",
+"title": "Rivian's Production Forecast Hits Bump, Supply Shortage Sends Shares Tumbling",
+"description": "Electric vehicle manufacturer Rivian Automotive, Inc. (NASDAQ:RIVN) shares are trading lower after the company lowered its annual production guidance due to ...",
+"url": "https://finance.yahoo.com/news/rivians-production-forecast-hits-bump-115236628.html/",
+"urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+"publishedAt": "2024-10-04T11:52:36Z",
+"content": "Electric vehicle manufacturer Rivian Automotive, Inc. (NASDAQ:RIVN) shares are trading lower after the company lowered its annual production guidance due to a supply shortage of shared components on … [+1845 chars]"
+},
+-{
+-"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Andrew J. Hawkins",
+"title": "Rivian now says it will make fewer electric vehicles this year than it did in 2023",
+"description": "Rivian is slashing its annual forecast to 47,000-49,000 vehicles in 2024, down from 57,000 vehicles in its original prediction.",
+"url": "https://www.theverge.com/2024/10/4/24261908/rivian-q3-production-delivery-forecast-supply-shortage",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/C0JFThBcyGbPtoKbzZVLrpd_zF8=/0x0:2048x1365/1200x628/filters:focal(1024x683:1025x684)/cdn.vox-cdn.com/uploads/chorus_asset/file/24585490/236609_Rivian_R1S_review_DGolson_0011.jpg",
+"publishedAt": "2024-10-04T11:51:28Z",
+"content": "Rivian now says it will make fewer electric vehicles this year than it did in 2023\r\nRivian now says it will make fewer electric vehicles this year than it did in 2023\r\n / A supply shortage forced the… [+2028 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Ibtimes.com.au"
+},
+"author": "Raziye Akkoc",
+"title": "EU States Greenlight Extra Tariffs On EVs From China",
+"description": "EU countries gave a definitive green light on Friday to hefty additional tariffs on electric cars made in China, despite German warnings that it will spark a trade war with Beijing.",
+"url": "https://www.ibtimes.com.au/eu-states-greenlight-extra-tariffs-evs-china-1852184",
+"urlToImage": "https://d.ibtimes.com.au/en/full/1861394/eu-inquiry-concluded-that-beijings-state-aid-electric-vehicle-makers-was-unfair.jpg",
+"publishedAt": "2024-10-04T11:51:11Z",
+"content": "EU countries gave a definitive green light on Friday to hefty additional tariffs on electric cars made in China, despite German warnings that it will spark a trade war with Beijing.\r\nThe European Com… [+4269 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Reuters",
+"title": "Futures hold ground before key payrolls data; investors assess Middle East risks",
+"description": "Futures hold ground before key payrolls data; investors assess Middle East risks",
+"url": "https://www.investing.com/news/economy-news/futures-steady-before-key-payrolls-data-as-investors-weigh-middle-east-risks-3648896",
+"urlToImage": "https://i-invdn-com.investing.com/news/indicatornews_3_800x533_L_1412601605.jpg",
+"publishedAt": "2024-10-04T11:35:50Z",
+"content": "By Johann M Cherian and Purvi Agarwal\r\n(Reuters) -U.S. stock index futures were flat to marginally higher on Friday as investors held off on significant moves ahead of crucial payrolls data and track… [+3231 chars]"
+},
+-{
+-"source": {
+"id": "nbc-news",
+"name": "NBC News"
+},
+"author": "Reuters",
+"title": "Elon Musk says he will attend Trump rally in Pennsylvania at site of July assassination attempt",
+"description": "Elon Musk said late on Thursday he will attend Donald Trump’s rally in Butler, Pennsylvania later this week, an event which will mark the former U.S. president’s return to the town where he survived an assassination attempt in July.",
+"url": "https://www.nbcnews.com/news/us-news/elon-musk-says-will-attend-trump-rally-pennsylvania-site-july-assassin-rcna173998",
+"urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241004-elon-musk-al-0719-35b73d.jpg",
+"publishedAt": "2024-10-04T11:32:49Z",
+"content": "Elon Musk said late on Thursday he will attend Donald Trumps rally in Butler, Pennsylvania later this week, an event which will mark the former U.S. presidents return to the town where he survived an… [+921 chars]"
+},
+-{
+-"source": {
+"id": "nbc-news",
+"name": "NBC News"
+},
+"author": "Jonathan Vanian, CNBC",
+"title": "Mark Zuckerberg is now world’s second-richest person, ahead of Jeff Bezos",
+"description": "Meta CEO Mark Zuckerberg has surpassed Jeff Bezos as the world’s second richest person, reports CNBC.",
+"url": "https://www.nbcnews.com/news/us-news/mark-zuckerberg-now-worlds-second-richest-person-ahead-jeff-bezos-rcna173999",
+"urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241004-Mark-Zuckerberg-al-0726-6727c8.jpg",
+"publishedAt": "2024-10-04T11:30:41Z",
+"content": "Meta CEO Mark Zuckerberg has surpassed Jeff Bezos as the worlds second richest person, reports CNBC.\r\nZuckerbergs net worth reached $206.2 billion on Thursday, according to the Bloomberg Billionaires… [+2384 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Tistory.com"
+},
+"author": "T.B",
+"title": "김건희 게이트(Rolex Gate) 174 (Big Take. Trump Stakeholder)",
+"description": "Georgia high school shooting suspect and his dad make 1st court appearances. https://t.co/lHSzq146XK pic.twitter.com/DUOJCibQSr— ABC News (@ABC) September 6, 2024 Georgia school shooting suspect, father to remain in custody https://t.co/YwkO7Omu3o— The Hill (…",
+"url": "https://ryueyes11.tistory.com/511048",
+"urlToImage": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb12J3N%2FbtsJVpWb8af%2FHzKbNU0oeTEYjbfrkaKH4k%2Fimg.jpg",
+"publishedAt": "2024-10-04T11:21:43Z",
+"content": "Georgia high school shooting suspect and his dad make 1st court appearances. https://t.co/lHSzq146XKpic.twitter.com/DUOJCibQSr\r\n— ABC News (@ABC) September 6, 2024\r\nGeorgia school shooting suspect, f… [+17112 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Research and Markets",
+"title": "Battery Market Analysis Report 2024-2032: Enhanced Focus on Sustainable Development Creating Positive Outlook",
+"description": "Dublin, Oct. 04, 2024 (GLOBE NEWSWIRE) -- The \"Battery Market Report by Type (Primary Battery, Secondary Market), Product (Lithium-Ion, Lead Acid, Nickel Metal Hydride, Nickel Cadmium, and Others), Application (Automotive Batteries, Industrial Batteries, Port…",
+"url": "https://www.globenewswire.com/news-release/2024/10/04/2958261/28124/en/Battery-Market-Analysis-Report-2024-2032-Enhanced-Focus-on-Sustainable-Development-Creating-Positive-Outlook.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+"publishedAt": "2024-10-04T11:12:00Z",
+"content": "Dublin, Oct. 04, 2024 (GLOBE NEWSWIRE) -- The \"Battery Market Report by Type (Primary Battery, Secondary Market), Product (Lithium-Ion, Lead Acid, Nickel Metal Hydride, Nickel Cadmium, and Others), A… [+5441 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "inc.com",
+"title": "Tesla Recalls Over 27,000 Cybertrucks Over Rear Camera Flaw",
+"description": "The recall, prompted by a lag in rear camera images, affects most Cybertrucks in the U.S. and is the biggest one for the electric truck.",
+"url": "https://biztoc.com/x/168f69b9d2e2f780",
+"urlToImage": "https://biztoc.com/cdn/168f69b9d2e2f780_s.webp",
+"publishedAt": "2024-10-04T10:59:10Z",
+"content": "The recall, prompted by a lag in rear camera images, affects most Cybertrucks in the U.S. and is the biggest one for the electric truck.\r\nThis story appeared on inc.com, 2024-10-04."
+},
+-{
+-"source": {
+"id": null,
+"name": "Protothema.gr"
+},
+"author": "admin",
+"title": "Elon Musk: He will attend Donald Trump’s campaign rally in Pennsylvania",
+"description": "The Republican candidate is returning to Butler, where he faced an assassination attempt in July\nThe post Elon Musk: He will attend Donald Trump’s campaign rally in Pennsylvania appeared first on ProtoThema English.",
+"url": "https://en.protothema.gr/2024/10/04/elon-musk-he-will-attend-donald-trumps-campaign-rally-in-pennsylvania/",
+"urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/10/elon_musk-1.jpg-1.jpg",
+"publishedAt": "2024-10-04T10:30:56Z",
+"content": "Elon Musk has announced that he will attend Donald Trumps campaign rally in Butler, Pennsylvania.\r\nThe rally will take place on Saturday, October 5, marking Donald Trump’s return to the city, where h… [+1204 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Reuters",
+"title": "Rivian lowers annual production forecast due to parts shortage",
+"description": "Rivian lowers annual production forecast due to parts shortage",
+"url": "https://www.investing.com/news/economy-news/rivian-lowers-annual-production-forecast-due-to-parts-shortage-3648843",
+"urlToImage": "https://i-invdn-com.investing.com/news/Brazil-Stock-Market_3_800x533_L_1414427437.jpg",
+"publishedAt": "2024-10-04T10:25:45Z",
+"content": "(Reuters) -Rivian said on Friday it slashed its full-year production forecast and delivered fewer vehicles in the third quarter than analysts had expected, as the startup grapples with a parts shorta… [+1929 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Reuters",
+"title": "Futures steady before key payrolls data as investors weigh Middle East risks",
+"description": "The Labor Department's non-farm payrolls data, due at 8:30 a.m. ET, is expected to show that the economy likely maintained a moderate pace of job growth in...",
+"url": "https://finance.yahoo.com/news/futures-steady-key-payrolls-data-101703160.html/",
+"urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+"publishedAt": "2024-10-04T10:17:03Z",
+"content": "(Reuters) - U.S. stock index futures were tepid on Friday as investors refrained from making significant bets ahead of crucial payrolls data and watched for any escalation in geopolitical tensions in… [+2875 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Mediatakeout.com"
+},
+"author": "Lyndon Abioye",
+"title": "Azealia Banks Claims Elon Musk Knew About Diddy’s ‘Freak-Offs’",
+"description": "Azealia Banks lashed out at X owner Elon Musk in a scathing tweet over his alleged connections to Diddy. Musk posted a tweet, questioning how many celebrities knew about Diddy’s Bad boy ways. “How many people in music & entertainment knew about this?” he wrot…",
+"url": "https://mediatakeout.com/azealia-banks-claims-elon-musk-knew-about-diddys-freak-offs/",
+"urlToImage": "https://mediatakeout.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-08-at-8.26.49-AM.png",
+"publishedAt": "2024-10-04T10:06:00Z",
+"content": "Azealia Banks lashed out at X owner Elon Musk in a scathing tweet over his alleged connections to Diddy.\r\nMusk posted a tweet, questioning how many celebrities knew about Diddy’s Bad boy ways.\r\nHow m… [+803 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Reuters",
+"title": "Rivian lowers annual production forecast due to parts shortage",
+"description": "Shares of the company fell over 6% in premarket trading.  The company said the shortage of the parts, used in its R1 SUV and R1T pickups as well as its...",
+"url": "https://finance.yahoo.com/news/rivian-lowers-annual-production-forecast-100541202.html/",
+"urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+"publishedAt": "2024-10-04T10:05:41Z",
+"content": "(Reuters) -Rivian said on Friday it slashed its full-year production forecast and delivered fewer vehicles in the third quarter than analysts had expected, as the startup grapples with a parts shorta… [+1947 chars]"
+},
+-{
+-"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Andrew J. Hawkins",
+"title": "Waymo is adding the Hyundai Ioniq 5 to its robotaxi fleet",
+"description": "Waymo’s next robotaxi will be the Hyundai Ioniq 5. The two companies are forming a multiyear partnership that will see the EV added to Waymo’s fleet in a few years.",
+"url": "https://www.theverge.com/2024/10/4/24261357/waymo-hyundai-ioniq-5-robotaxi-partnership",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/pIWQPlSlm-uFYRFUbNxcoMub8Bk=/0x0:7818x4398/1200x628/filters:focal(3909x2199:3910x2200)/cdn.vox-cdn.com/uploads/chorus_asset/file/25656664/WAYMO_X_HMC_100424.png",
+"publishedAt": "2024-10-04T10:00:00Z",
+"content": "Waymo is adding the Hyundai Ioniq 5 to its robotaxi fleet\r\nWaymo is adding the Hyundai Ioniq 5 to its robotaxi fleet\r\n / Waymo has entered into a strategic, multiyear partnership with the South Korea… [+3941 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Designtaxi.com"
+},
+"author": "Garth Gator",
+"title": "Tesla Recalls More Than 27,000 Cybertrucks Due To Glitchy Rearview Cameras",
+"description": "Tesla is hitting the brakes on 27,185 of its 2024 Cybertruck models due to a critical glitch with the rearview camera system. The recall, which affects vehicles produced between November 13, 2023, and September 14, 2024, was prompted after the National Highwa…",
+"url": "https://community.designtaxi.com/topic/5556-tesla-recalls-more-than-27000-cybertrucks-due-to-glitchy-rearview-cameras/",
+"urlToImage": "https://content.invisioncic.com/y329496/monthly_2024_10/Tesla-Cybertruck-27000-Recall-Camera-1.jpg.2aa6776d1045529f12e2bc3a1a4f558a.jpg",
+"publishedAt": "2024-10-04T09:52:55Z",
+"content": "Tesla is hitting the brakes on 27,185 of its 2024 Cybertruck models due to a critical glitch with the rearview camera system. The recall, which affects vehicles produced between November 13, 2023, an… [+1021 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Keith Speights, The Motley Fool",
+"title": "What's the Best \"Magnificent Seven\" Stock to Buy With the Fed Cutting Rates?",
+"description": "The Federal Reserve's moves are magnificent for all seven of these giants but are better for some than others.",
+"url": "https://finance.yahoo.com/news/whats-best-magnificent-seven-stock-094300966.html/",
+"urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+"publishedAt": "2024-10-04T09:43:00Z",
+"content": "Interest rates are at long last coming down as the Federal Reserve announced a significant 0.5% rate cut in September. More reductions in the interest rate are likely on the way.\r\nLower rates are usu… [+5563 chars]"
+},
+-{
+-"source": {
+"id": "newsweek",
+"name": "Newsweek"
+},
+"author": "Marie Boran",
+"title": "Elon Musk to Attend Donald Trump Rally, Increases Hostility Towards Harris",
+"description": "In a series of posts on X, Elon Musk ramped up his criticism of Kamala Harris while announcing his intention to attend Trump's rally this weekend.",
+"url": "https://www.newsweek.com/elon-musk-attend-donald-trump-rally-increases-hostility-towards-harris-1963692",
+"urlToImage": "https://d.newsweek.com/en/full/2487340/elon-musk-attends-us-open-2024.jpg",
+"publishedAt": "2024-10-04T09:42:28Z",
+"content": "SpaceX CEO Elon Musk has announced he will attend the upcoming rally for Donald Trump in Butler, Pennsylvania, where the former president was shot in an assassination attempt.\r\nThis marks the first t… [+5502 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Bangkok Post"
+},
+"author": "Bloomberg News",
+"title": "EU to impose tariffs up to 45% on EVs from China",
+"description": "<p>LONDON - The European Union (EU) voted on Friday to impose tariffs as high as 45% on electric vehicles (EVs) from China in a move set to increase trade tensions with Beijing, according to people familiar with the process.&nbsp;</p>",
+"url": "https://www.bangkokpost.com/business/motoring/2877691/european-union-eu-to-impose-tariffs-up-to-45-on-electric-vehicles-from-china",
+"urlToImage": "https://static.bangkokpost.com/media/content/20241004/c1_2877691_700.jpg",
+"publishedAt": "2024-10-04T09:40:00Z",
+"content": "LONDON - The European Union (EU) voted on Friday to impose tariffs as high as 45% on electric vehicles (EVs) from China in a move set to increase trade tensions with Beijing, according to people fami… [+3701 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "Prediction: 2 Stocks That'll Be Worth More Than Tesla 10 Years From Now",
+"description": "Tesla (NASDAQ: TSLA) gets a lot of media attention thanks to its high-profile founder and high-quality products. That's translated to momentum in the stock market, but there are other great companies flying somewhat under the radar. Consider two other powerho…",
+"url": "https://biztoc.com/x/9a9d04582459a972",
+"urlToImage": "https://biztoc.com/cdn/9a9d04582459a972_s.webp",
+"publishedAt": "2024-10-04T09:30:47Z",
+"content": "Tesla (NASDAQ: TSLA) gets a lot of media attention thanks to its high-profile founder and high-quality products. That's translated to momentum in the stock market, but there are other great companies… [+132 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "2024-10-04T09:23:37Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Realinvestmentadvice.com"
+},
+"author": "Lance Roberts",
+"title": "Election Outcome Presents Opportunity For Investors",
+"description": "As the November 2024 election draws near, the election outcome will profoundly affect the financial markets. Whether Donald Trump or Kamala Harris wins the presidency, each administration will bring distinct policies creating investment opportunities and pote…",
+"url": "https://realinvestmentadvice.com/election-outcome-presents-opportunity-for-investors/",
+"urlToImage": "https://realinvestmentadvice.com/wp-content/uploads/2024/09/2024-Eleciton-Outcome-e1726414831367.png",
+"publishedAt": "2024-10-04T09:07:00Z",
+"content": "As the November 2024 election draws near, the election outcomewill profoundly affect the financial markets. Whether Donald Trump or Kamala Harris wins the presidency, each administration will bring d… [+8436 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Alberto Nardelli and Jorge Valero",
+"title": "EU to Impose Tariffs Up to 45% on Electric Vehicles From China",
+"description": "(Bloomberg) -- The European Union voted on Friday to impose tariffs as high as 45% on electric vehicles from China in a move set to increase trade tensions...",
+"url": "https://www.yahoo.com/news/eu-impose-tariffs-45-electric-090605200.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/HBsoDrsJdynWNCiJsKDuIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTY-/https://media.zenfs.com/en/bloomberg_politics_602/e443dc7c282ba327ce696e8a52fb2cb0",
+"publishedAt": "2024-10-04T09:06:05Z",
+"content": "(Bloomberg) -- The European Union voted on Friday to impose tariffs as high as 45% on electric vehicles from China in a move set to increase trade tensions with Beijing, according to people familiar … [+3627 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "The Star Online"
+},
+"author": "Alex Perry",
+"title": "Mark Zuckerberg passes Jeff Bezos to become world’s second-richest person",
+"description": "Mark Zuckerberg became the world’s second-richest person for the first time on Oct 3, jumping ahead of Jeff Bezos as shares of Meta Platforms Inc continue to climb. Read full story",
+"url": "https://www.thestar.com.my/tech/tech-news/2024/10/04/mark-zuckerberg-passes-jeff-bezos-to-become-worlds-second-richest-person",
+"urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/04/2947016.JPG",
+"publishedAt": "2024-10-04T09:00:00Z",
+"content": "Mark Zuckerberg became the worlds second-richest person for the first time on Oct 3, jumping ahead of Jeff Bezos as shares of Meta Platforms Inc continue to climb.\r\nZuckerbergs bet on the metaverse w… [+1201 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Danny Vena, The Motley Fool",
+"title": "2 \"Magnificent Seven\" Stocks to Buy Before They Soar as Much as 71% According to Select Wall Street Analysts",
+"description": "After notching triple-digit gains over the past year, these tech stalwarts are still worth a look.",
+"url": "https://finance.yahoo.com/news/2-magnificent-seven-stocks-buy-084200520.html/",
+"urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+"publishedAt": "2024-10-04T08:42:00Z",
+"content": "The rise to prominence of artificial intelligence (AI) since early last year has been nothing short of phenomenal. The potential applications for generative AI continue to grow by leaps and bounds, a… [+7369 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "DW (English)"
+},
+"author": "Deutsche Welle",
+"title": "EU to vote on tariffs for Chinese electric vehicles",
+"description": "Germany strongly opposes the tariffs amid fears of a trade war with China. Meanwhile, Beijing called the move \"protectionist\" and threatenedretaliatory measures.",
+"url": "https://www.dw.com/en/eu-to-vote-on-tariffs-for-chinese-electric-vehicles/a-70399689",
+"urlToImage": "https://static.dw.com/image/70399391_6.jpg",
+"publishedAt": "2024-10-04T08:10:00Z",
+"content": "The European Union is set to vote on Friday on tariffs of up to 45% on electric vehicles imported from China, a move that might set the stage for a protracted trade war with the Asian giant.\r\nThe vot… [+2511 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "DW (English)"
+},
+"author": "Deutsche Welle",
+"title": "EU to vote on tariffs for Chinese electric vehicles",
+"description": "Germany strongly opposes the tariffs amid fears of a trade war with China. Meanwhile, Beijing called the move \"protectionist\" and threatened retaliatory measures.",
+"url": "https://www.dw.com/en/eu-greenlights-tariffs-for-chinese-electric-vehicles/a-70399689",
+"urlToImage": "https://static.dw.com/image/70399391_6.jpg",
+"publishedAt": "2024-10-04T08:10:00Z",
+"content": "The European Union voted on Friday to pave the way for tariffs of up to 35.3% on electric vehicles imported from China, a move that might set the stage for a protracted trade war with the Asian giant… [+2260 chars]"
+},
+-{
+-"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "TOI Astrology",
+"title": "What If Zodiac Signs were Car Brands?",
+"description": "Each zodiac sign pairs with a car brand reflecting its traits. Aries aligns with Ferrari, Taurus with Rolls-Royce, Gemini with Tesla, Cancer with Subaru, Leo with Lamborghini, Virgo with Toyota, Libra with BMW, Scorpio with Porsche, Sagittarius with Jeep, Cap…",
+"url": "https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/what-if-zodiac-signs-were-car-brands/articleshow/113933048.cms",
+"urlToImage": "https://static.toiimg.com/thumb/msid-113933042,width-1070,height-580,imgsize-77972,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+"publishedAt": "2024-10-04T08:09:53Z",
+"content": "Zodiac Signs and Food Preferences"
+},
+-{
+-"source": {
+"id": null,
+"name": "New Atlas"
+},
+"author": "Darren Quick",
+"title": "CyberTruck-inspired treadmill targets an unobtrusive at-work workout",
+"description": "Research showing that sitting for extended periods is bad for your health led to an explosion in the popularity of standing desks. And for those looking to get in some cardio while chained to the desk, under-desk treadmills let you do just that. Urevo offers …",
+"url": "https://newatlas.com/fitness/cyberpad-under-desk-treadmill/",
+"urlToImage": "https://assets.newatlas.com/dims4/default/e2188ee/2147483647/strip/true/crop/1709x897+0+104/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F20%2F68%2F2bbedf9044708da9146bd13ed4f3%2Fscreenshot-2024-10-04-at-2.50.52%E2%80%AFPM.png&na.image_optimisation=0",
+"publishedAt": "2024-10-04T07:57:00Z",
+"content": "Research showing that sitting for extended periods is bad for your health led to an explosion in the popularity of standing desks. And for those looking to get in some cardio while chained to the des… [+3424 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Freerepublic.com"
+},
+"author": "NY Post",
+"title": "Elon Musk to attend Trump’s Butler, Pa. rally less than 3 months removed from first assassination attempt on ex-prez",
+"description": "Elon Musk is planning to attend ex-President Donald Trump’s Butler, Pa. rally over the weekend, the billionaire Tesla CEO announced late Thursday. “I will be there to support!” Musk wrote in a retweet of Trump’s promotion for the rally on Saturday. The Republ…",
+"url": "https://freerepublic.com/focus/f-news/4268832/posts",
+"urlToImage": null,
+"publishedAt": "2024-10-04T07:20:45Z",
+"content": "Skip to comments.\r\nElon Musk to attend Trumps Butler, Pa. rally less than 3 months removed from first assassination attempt on ex-prez NY Post ^\r\n | Oct 4, 2024\r\n | Allie Griffin\r\nPosted on 10/04/202… [+1706 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "AutoExpress"
+},
+"author": "Ellis Hyde",
+"title": "New entry-level Tesla Model Y Long Range RWD boasts 373-mile range",
+"description": "Tesla’s best-selling Model Y electric SUV now costs from £46,990 – exactly £2,000 more than before",
+"url": "https://www.autoexpress.co.uk/tesla/model-y/364537/new-entry-level-tesla-model-y-long-range-rwd-boasts-373-mile-range",
+"urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1727955499/autoexpress/2024/10/Tesla Model Y update 2024-14.jpg",
+"publishedAt": "2024-10-04T07:08:49Z",
+"content": "The entry-level version of the Tesla Model Y has been replaced by a new Long Range Rear Wheel Drive variant that has a slightly higher price tag, but in return offers 90 miles of extra range.\r\nThe ne… [+2197 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "2024-10-04T07:00:44Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Business Standard"
+},
+"author": "Reuters",
+"title": "Musk to attend Trump rally in Pennsylvania at July assassination bid site",
+"description": "Musk, the CEO of Tesla and owner of X, called Republican presidential candidate Trump \"tough\" and officially endorsed him after he survived an assassination attempt in Butler on July 13",
+"url": "https://www.business-standard.com/world-news/musk-to-attend-trump-rally-in-pennsylvania-at-july-assassination-bid-site-124100400367_1.html",
+"urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/26/thumb/fitandfill/400X400/1724646602-549.jpg",
+"publishedAt": "2024-10-04T06:55:58Z",
+"content": "Musk, the CEO of Tesla and owner of X, called Republican presidential candidate Trump \"tough\" and officially endorsed him after he survived an assassination attempt in Butler on July 13\r\nI will be th… [+1591 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "news.google.com",
+"title": "Tesla’s fifth Cybertruck recall is due to a rear-view camera glitch",
+"description": "Tesla’s fifth Cybertruck recall is due to a rear-view camera glitch Engadget\nTesla recalls 27,000 Cybertrucks due to a rearview camera issue CNN\nTesla Recalls 27,185 Cybertruck Vehicles Over Rearview Camera Delay Yahoo Finance\nTesla Recalls 27,000 Cybertrucks…",
+"url": "https://biztoc.com/x/386afc49d2f53d3e",
+"urlToImage": "https://biztoc.com/cdn/802/og.png",
+"publishedAt": "2024-10-04T06:50:20Z",
+"content": "Teslas fifth Cybertruck recall is due to a rear-view camera glitch EngadgetTesla recalls 27,000 Cybertrucks due to a rearview camera issue CNNTesla Recalls 27,185 Cybertruck Vehicles Over Rearview Ca… [+132 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "The Star Online"
+},
+"author": "The Star Online",
+"title": "Musk to attend Trump rally in Pennsylvania at site of July assassination attempt",
+"description": "(Reuters) - Elon Musk said late on Thursday he will attend Donald Trump's rally in Butler, Pennsylvania later this week, an event which will mark the former U.S. president's return to the town where he survived an assassination attempt in July. Read full story",
+"url": "https://www.thestar.com.my/news/world/2024/10/04/musk-to-attend-trump-rally-in-pennsylvania-at-site-of-july-assassination-attempt",
+"urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/04/2946823.jpg",
+"publishedAt": "2024-10-04T06:47:00Z",
+"content": "(Reuters) - Elon Musk said late on Thursday he will attend Donald Trump's rally in Butler, Pennsylvania later this week, an event which will mark the former U.S. president's return to the town where … [+1009 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Bangkok Post"
+},
+"author": "Reuters and Bloomberg",
+"title": "Musk to attend Trump rally in Pennsylvania at site of July assassination attempt",
+"description": "<p>BENGALURU - Elon Musk said late on Thursday he will attend Donald Trump's rally in Butler, Pennsylvania, later this week, an event which will mark the former United States president's return to the town where he survived an assassination attempt in July.</…",
+"url": "https://www.bangkokpost.com/world/2877648/musk-to-attend-trump-rally-in-pennsylvania-at-site-of-july-assassination-attempt",
+"urlToImage": "https://static.bangkokpost.com/media/content/20241004/c1_2877648_700.jpg",
+"publishedAt": "2024-10-04T06:44:00Z",
+"content": "BENGALURU - Elon Musk said late on Thursday he will attend Donald Trump's rally in Butler, Pennsylvania, later this week, an event which will mark the former United States president's return to the t… [+1441 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Bangkok Post"
+},
+"author": "Reuters and Bloomberg",
+"title": "Musk to attend Trump rally at site of assassination attempt",
+"description": "<p>BENGALURU - Elon Musk said late on Thursday he will attend Donald Trump's rally in Butler, Pennsylvania, later this week, an event which will mark the former United States president's return to the town where he survived an assassination attempt in July.</…",
+"url": "https://www.bangkokpost.com/world/2877648/elon-musk-to-attend-former-us-president-donald-trump-rally-in-pennsylvania-at-site-of-july-assassination-attempt",
+"urlToImage": "https://static.bangkokpost.com/media/content/20241004/c1_2877648_700.jpg",
+"publishedAt": "2024-10-04T06:44:00Z",
+"content": "BENGALURU - Elon Musk said late on Thursday he will attend Donald Trump's rally in Butler, Pennsylvania, later this week, an event which will mark the former United States president's return to the t… [+1441 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Reuters",
+"title": "Musk to attend Trump rally in Pennsylvania at site of July assassination attempt",
+"description": "Musk to attend Trump rally in Pennsylvania at site of July assassination attempt",
+"url": "https://www.investing.com/news/stock-market-news/musk-to-attend-trump-rally-in-pennsylvania-at-site-of-july-assassination-attempt-3648610",
+"urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEA6606G_L.jpg",
+"publishedAt": "2024-10-04T06:35:42Z",
+"content": "(Reuters) - Elon Musk said late on Thursday he will attend Donald Trump's rally in Butler, Pennsylvania later this week, an event which will mark the former U.S. president's return to the town where … [+951 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Reuters",
+"title": "Musk to attend Trump rally in Pennsylvania at site of July assassination attempt",
+"description": "\"I will be there to support!\" Musk replied to a post by Trump on social media platform X saying he was returning to Butler on Saturday.  Musk, the CEO of...",
+"url": "https://www.yahoo.com/news/musk-attend-trump-rally-pennsylvania-063445943.html",
+"urlToImage": "https://media.zenfs.com/en/reuters.com/951be1f0a0b608efdc194595289d9d8d",
+"publishedAt": "2024-10-04T06:34:45Z",
+"content": "(Reuters) - Elon Musk said late on Thursday he will attend Donald Trump's rally in Butler, Pennsylvania later this week, an event which will mark the former U.S. president's return to the town where … [+1008 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Hurriyet Daily News"
+},
+"author": "hurriyetdailynews.com",
+"title": "Türkiye's electric car producer Togg replaces board chairman",
+"description": "Fuat Tosyalı has been elected as the new head of Türkiye's electric vehicle producer, Togg.",
+"url": "https://www.hurriyetdailynews.com/turkiyes-electric-car-producer-togg-replaces-board-chairman-201211",
+"urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/66ff8c7652333908f16a46d2.jpg",
+"publishedAt": "2024-10-04T06:34:32Z",
+"content": "ISTANBUL\r\nFuat Tosyal has been elected as the new head of Türkiye's electric vehicle producer, Togg.\r\nTosyal, who is also head of the Turkish conglomerate, Tosyal Holding, replaces Rifat Hisarcklolu,… [+1478 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Business Standard"
+},
+"author": "Vasudha Mukherjee",
+"title": "Australia upholds $610,500 fine against Musk's X on child e-safety concerns",
+"description": "An Australian Court has upheld AUD 610,500 fine against Elon Musk's X for failing to address child abuse content amid crackdown on tech companies",
+"url": "https://www.business-standard.com/world-news/australia-upholds-610-500-fine-against-musk-s-x-on-child-e-safety-concerns-124100400322_1.html",
+"urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/03/thumb/featurecrop/400X400/1727941917-3941.jpg",
+"publishedAt": "2024-10-04T06:17:25Z",
+"content": "Elon musk, musk, Elon, Tesla(Photo: Shutterstock)"
+},
+-{
+-"source": {
+"id": "time",
+"name": "Time"
+},
+"author": "Romy Varghese / Bloomberg",
+"title": "Musk Says He’ll Attend Rally as Trump Returns to Butler, Pennsylvania, After July Shooting",
+"description": "Trump is returning to the fairgrounds in Butler, the setting of an assassination attempt on the former president in July that left one supporter dead.",
+"url": "https://time.com/7041698/elon-musk-trump-rally-butler-pennsylvania/",
+"urlToImage": "https://api.time.com/wp-content/uploads/2024/10/elon-musk-donald-trump.jpg?quality=85&w=1024&h=628&crop=1",
+"publishedAt": "2024-10-04T05:45:00Z",
+"content": "Elon Musk said he would attend a rally that Donald Trump is holding on Saturday in Butler, Pennsylvania, the setting of the first assassination attempt on the former president.\r\nIn a post late Thursd… [+931 chars]"
+},
+-{
+-"source": {
+"id": "next-big-future",
+"name": "Next Big Future"
+},
+"author": "Brian Wang",
+"title": "Tesla FSD Will Soon Exceed 10,000 Miles Between Critical Interventions",
+"description": "Elon posts that Tesla FSD will soon exceed 10,000 miles between critical interventions, which is a year of driving for most people. One week until the shock and awe of Tesla Robotaxi day. FSD will soon exceed 10,000 miles between critical interventions, which…",
+"url": "https://www.nextbigfuture.com/2024/10/tesla-fsd-will-soon-exceed-10000-miles-between-critical-interventions.html",
+"urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/10/Screenshot-2024-10-03-at-10.16.46-PM.jpg",
+"publishedAt": "2024-10-04T05:17:48Z",
+"content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology… [+593 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "NDTV News"
+},
+"author": "Romy Varghese, Bloomberg",
+"title": "Trump To Return To Shooting Site In Pennsylvania, Elon Musk To Attend",
+"description": "Elon Musk said he would attend a rally that Donald Trump is holding on Saturday in Butler, Pennsylvania, the setting of the first assassination attempt on the former president.",
+"url": "https://www.ndtv.com/world-news/donald-trump-to-return-to-shooting-site-in-pennsylvania-elon-musk-to-attend-6712802",
+"urlToImage": "https://c.ndtvimg.com/2024-07/4nqpohc8_donald-trump_625x300_14_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+"publishedAt": "2024-10-04T05:17:02Z",
+"content": "Elon Musk said he would attend a rally that Donald Trump is holding on Saturday in Butler, Pennsylvania, the setting of the first assassination attempt on the former president.\r\nIn a post late Thursd… [+1147 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Jameson Dow",
+"title": "Tesla starts taking configurations of $79k non-Foundation Cybertrucks",
+"description": "Over 10 months after deliveries started of the exclusive \"Foundation\" series Cybertruck, Tesla will start delivering cheaper models this month",
+"url": "http://electrek.co/2024/10/03/tesla-starts-taking-configurations-of-79k-non-foundation-cybertrucks/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/12/2024-Tesla-prices-Cybertruck.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2024-10-04T05:14:56Z",
+"content": "Source: Tesla\r\nOver ten months after deliveries started, Tesla is now taking configurations for the non-Foundation series Cybertruck.\r\nThe first Cybertruck deliveries occurred on November 30th last y… [+3341 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Allie Griffin",
+"title": "Elon Musk to attend Trump’s Butler, Pa. rally less than 3 months removed from first assassination attempt on ex-prez",
+"description": "Elon Musk is planning to attend ex-President Donald Trump's Butler, Pa. rally over the weekend, the billionaire Tesla CEO announced late Thursday.",
+"url": "https://nypost.com/2024/10/04/us-news/elon-musk-to-attend-trumps-butler-pa-rally-less-than-3-months-removed-from-first-assassination-attempt-on-ex-prez/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/elon-musk-says-attend-trumps-90983392.jpg?quality=75&strip=all&w=1024",
+"publishedAt": "2024-10-04T05:04:03Z",
+"content": "Elon Musk is planning to attend ex-President Donald Trump’s Butler, Pa. rally over the weekend, the billionaire Tesla CEO announced late Thursday. \r\n“I will be there to support!” Musk wrote in a retw… [+822 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "2024-10-04T04:58:02Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "benzinga.com",
+"title": "Trump Says He's Going Back To Butler, Site Of First Assassination Attempt — Elon Musk Chimes In, 'I'll Be There to Support'",
+"description": "Elon Musk, the CEO of SpaceX and Tesla and the owner of X, has voiced his support for an event, to be held at Butler, Pennsylvania, involving former President Donald Trump.\nWhat Happened: Musk shared a post from Trump in which the ex-president posted an image…",
+"url": "https://biztoc.com/x/830559b4b467c53b",
+"urlToImage": "https://biztoc.com/cdn/830559b4b467c53b_s.webp",
+"publishedAt": "2024-10-04T04:35:31Z",
+"content": "Elon Musk, the CEO of SpaceX and Tesla and the owner of X, has voiced his support for an event, to be held at Butler, Pennsylvania, involving former President Donald Trump.What Happened: Musk shared … [+136 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CryptoGlobe"
+},
+"author": "CryptoGlobe Writer",
+"title": "Dogecoin Sees Record Growth: Active Addresses Surge 72% in Major Network Expansion",
+"description": "The meme-inspired cryptocurrency Dogecoin ($DOGE) has seen its “largest spike in active addresses in the past six months,” as the number of addresses active on its blockchain recently surged to 84,306. That’s according to data from on-chain analytics firm San…",
+"url": "https://www.cryptoglobe.com/latest/2024/10/dogecoin-sees-record-growth-active-addresses-surge-72-in-major-network-expansion/",
+"urlToImage": "https://media.cryptoglobe.com/2023/03/gold-dogecoin-768x511.jpg",
+"publishedAt": "2024-10-04T04:33:00Z",
+"content": "The meme-inspired cryptocurrency Dogecoin ($DOGE) has seen its largest spike in active addresses in the past six months, as the number of addresses active on its blockchain recently surged to 84,306.… [+1198 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Ezyang.com"
+},
+"author": null,
+"title": "Edward Z. Yang: Whatâ€™s different this time? LLM edition",
+"description": "One of the things that I learned in grad school is that even if you've picked an important and unsolved problem, you need some reason to believe it is solvable... especially if people have tried to solve it before! In other words, \"What's different this time?…",
+"url": "http://blog.ezyang.com/2024/10/whats-different-this-time-llm-edition/",
+"urlToImage": null,
+"publishedAt": "2024-10-04T04:30:09Z",
+"content": "One of the things that I learned in grad school is that even if you've picked an important and unsolved problem, you need some reason to believe it is solvable... especially if people have tried to s… [+4451 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Business Standard"
+},
+"author": "Nisha Anand",
+"title": "Mark Zuckerberg replaces Jeff Bezos as second richest person in the world",
+"description": "Mark Zuckerberg co-founded Facebook (now rebranded as Meta) in 2004. Meta also owns Instagram and WhatsApp, two highly successful communication platforms",
+"url": "https://www.business-standard.com/world-news/mark-zuckerberg-replaces-jeff-bezos-as-second-richest-person-in-the-world-124100400137_1.html",
+"urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/30/thumb/fitandfill/400X400/1727687973-2932.jpg",
+"publishedAt": "2024-10-04T04:03:50Z",
+"content": "Mark Zuckerberg co-founded Facebook (now rebranded as Meta) in 2004. Meta also owns Instagram and WhatsApp, two highly successful communication platforms\r\nMeta Chief Executive Officer Mark Zuckerberg… [+1924 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "NDTV News"
+},
+"author": "Alex Perry, The Bloomberg",
+"title": "Mark Zuckerberg Passes Jeff Bezos To Become World's Second-Richest Person",
+"description": "Mark Zuckerberg became the world&#039;s second-richest person for the first time Thursday, jumping ahead of Jeff Bezos as shares of Meta Platforms Inc. continue to climb.",
+"url": "https://www.ndtv.com/world-news/mark-zuckerberg-passes-jeff-bezos-to-become-worlds-second-richest-person-6712254",
+"urlToImage": "https://c.ndtvimg.com/2024-10/mpvl6h1o_mark-zuckerberg-bloomberg_625x300_04_October_24.jpeg",
+"publishedAt": "2024-10-04T03:24:59Z",
+"content": "Mark Zuckerberg became the world's second-richest person for the first time Thursday, jumping ahead of Jeff Bezos as shares of Meta Platforms Inc. continue to climb. \r\nZuckerberg's bet on the metaver… [+1264 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Digitimes"
+},
+"author": "Vyra Wu",
+"title": "Hyundai Motor launches ambitious battery production strategy",
+"description": "Hyundai Motor has unveiled its battery self-production plan, marking a significant step into in-house electric vehicle (EV) battery manufacturing. With several automakers, including Tesla, attempting to produce their own batteries with limited success, indust…",
+"url": "https://www.digitimes.com/news/a20241003PD216/hyundai-production-tesla-manufacturing-vehicle.html",
+"urlToImage": "https://img.digitimes.com/newsshow/20241003pd216_files/2_b.jpg",
+"publishedAt": "2024-10-04T03:16:47Z",
+"content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Paul Tan's Automotive News"
+},
+"author": "Jonathan James Tan",
+"title": "BYD Seal remains best-selling EV in Malaysia, beating Tesla Model 3 – BYD and Tesla dominate top 5",
+"description": "The BYD Seal continues to wear the EV sales crown in Malaysia where January-August 2024 is concerned, according to the latest JPJ registration data. The first eight months of the year have seen 2,267 Seals […]\nThe post BYD Seal remains best-selling EV in Mala…",
+"url": "https://paultan.org/2024/10/04/byd-seal-remains-best-selling-ev-in-malaysia-beating-tesla-model-3-byd-and-tesla-dominate-top-5/",
+"urlToImage": "https://paultan.org/image/2024/04/2024_BYD_Seal_Premium_Performance_Malaysia-2-1200x801.jpg",
+"publishedAt": "2024-10-04T03:02:43Z",
+"content": "The BYD Seal continues to wear the EV sales crown in Malaysia where January-August 2024 is concerned, according to the latest JPJ registration data. The first eight months of the year have seen 2,267… [+1711 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "News-Medical.Net"
+},
+"author": "Dr. Sushama R. Chaphalkar",
+"title": "Mild COVID-19 disrupts brain connectivity and reduces memory function in adolescents and young adults",
+"description": "Study reveals localized brain changes in adolescents and young adults post-COVID, including reduced hippocampal volume and disrupted connectivity, correlating with impaired working memory. These findings highlight the importance of understanding long-term cog…",
+"url": "https://www.news-medical.net/news/20241003/Mild-COVID-19-disrupts-brain-connectivity-and-reduces-memory-function-in-adolescents-and-young-adults.aspx",
+"urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_792230_172801016017713.jpg",
+"publishedAt": "2024-10-04T02:52:00Z",
+"content": "New research shows that mild COVID-19 alters brain structure and connectivity in key areas responsible for memory and cognition, emphasizing the lasting effects on young people’s brain health.\r\nStudy… [+6891 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "New Zealand Herald"
+},
+"author": "Cameron Smith",
+"title": "New car sales on the road to recovery after September lift",
+"description": "A third consecutive month of improved sales.",
+"url": "https://www.nzherald.co.nz/business/new-car-sales-on-the-road-to-recovery-after-september-lift/A4KQ32XU2RGIZIQFZ2EKRKYBYI/",
+"urlToImage": "https://www.nzherald.co.nz/resizer/v2/JDIA5ZNYUOI6K6RQUFAI6WR5NU.jpg?auth=d50245e4b0d731c819c0584e316ffc44f636cb6d5d5a85b89f45db6ea74de85d&width=1200&height=675&quality=70&smart=true",
+"publishedAt": "2024-10-04T02:48:52Z",
+"content": "The light passenger segment has struggled with reduced volumes and a significant shift in consumer demand motive power preferences, MIA said.\r\nHowever, the data from September offers a promising indi… [+1488 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investor's Business Daily"
+},
+"author": "Investor's Business Daily",
+"title": "Dow Jones Futures: Port Strike Ends; Nvidia, Tesla Eye Buy Points With Jobs Report Due",
+"description": "The port strike ended with the jobs report due. Nvidia rose Thursday while Tesla fell, but both are working on buy points.",
+"url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-port-strike-ends-jobs-report-due-nvidia-tesla/",
+"urlToImage": "https://www.investors.com/wp-content/uploads/2019/06/Stock-JobApplication-01-shut.jpg",
+"publishedAt": "2024-10-04T02:29:15Z",
+"content": "Dow Jones futures edged higher overnight, along with S&amp;P 500 futures and Nasdaq futures. The September jobs report is on tap. Late Thursday, dockworkers and employers reached a tentative wage dea… [+6319 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Livedoor.com"
+},
+"author": "GIGAZINE（ギガジン）",
+"title": "テスラが「Cybertruck」約2万7000台をリコール、1年足らずで早くも5回目",
+"description": "by Tim Reckmannテスラが、車両をバックさせる際に使用するリアビューカメラ画面の不具合で2万7185台のCybertruckをリコールしました。2023年12月にデビューしたCybertruckがリコールの対象となるのはこれが5回目となります。Part 573 Safety Recall Report 24V-718(PDFファイル)https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V718-2751.PDFTesla recalls over 27,000…",
+"url": "https://news.livedoor.com/article/detail/27307655/",
+"urlToImage": "https://image.news.livedoor.com/newsimage/stf/d/8/d8f58_88_f9390bb7d6c75c1a403e4448af2c1ead.jpg",
+"publishedAt": "2024-10-04T01:55:00Z",
+"content": "by Tim Reckmann\r\n27185Cybertruck202312Cybertruck5\r\nPart 573 Safety Recall Report 24V-718\r\n(PDF)https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V718-2751.PDF\r\nTesla recalls over 27,000 Cybertrucks over… [+482 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "International Business Times"
+},
+"author": "Raziye Akkoc",
+"title": "EU States Set To Greenlight Extra Tariffs On EVs From China",
+"description": "EU countries are expected to confirm Friday hefty tariffs on electric cars made in China, a move dividing the bloc as some states led by Germany fear sparking a trade war with Beijing.",
+"url": "https://www.ibtimes.com/eu-states-set-greenlight-extra-tariffs-evs-china-3745478",
+"urlToImage": "https://d.ibtimes.com/en/full/4551749/eu-inquiry-concluded-that-beijings-state-aid-electric-vehicle-makers-was-unfair.jpg",
+"publishedAt": "2024-10-04T01:36:11Z",
+"content": "EU countries are expected to confirm Friday hefty tariffs on electric cars made in China, a move dividing the bloc as some states led by Germany fear sparking a trade war with Beijing.\r\nThe European … [+3147 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Digital Trends"
+},
+"author": "Trevor Mogg",
+"title": "Tesla has to fix another issue with the Cybertruck",
+"description": "The Cybertruck has been recalled for the fifth time since its launch in November, this time to fix an issue with the rearview camera display.",
+"url": "https://www.digitaltrends.com/cars/tesla-has-to-fix-another-issue-with-the-cybertruck/",
+"urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/08/elon-musk-cybertruck.jpeg?resize=1200%2C630&p=1",
+"publishedAt": "2024-10-04T01:35:32Z",
+"content": "Tesla is fixing an issue with the rearview mirror on 27,000 Cybertrucks.\r\nA recall report filed with the National Highway Traffic Safety Administration (NHTSA) said that affected vehicles include tho… [+1742 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Digital Journal"
+},
+"author": "AFP",
+"title": "EU states set to greenlight extra tariffs on EVs from China",
+"description": "EU countries are expected to confirm Friday hefty tariffs on electric cars made in China, a move dividing the bloc as some states led by Germany fear sparking a trade war with Beijing. The European Commission provisionally approved additional duties in June a…",
+"url": "https://www.digitaljournal.com/world/eu-states-set-to-greenlight-extra-tariffs-on-evs-from-china/article",
+"urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/10/115c66f258e5b0ee24caaa0a59987059a706c4b5.jpg",
+"publishedAt": "2024-10-04T01:34:59Z",
+"content": "An EU inquiry concluded that Beijing's state aid to electric vehicle makers was unfair - Copyright AFP/File STR\r\nEU countries are expected to confirm Friday hefty tariffs on electric cars made in Chi… [+3276 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Raziye Akkoc",
+"title": "EU states set to greenlight extra tariffs on EVs from China",
+"description": "EU countries are expected to confirm Friday hefty tariffs on electric cars made in China, a move dividing the bloc as some states led by Germany fear...",
+"url": "https://www.yahoo.com/news/eu-states-set-greenlight-extra-013327750.html",
+"urlToImage": "https://media.zenfs.com/en/afp.com/219b75c4e7bfc20abb93e2fa32eb8080",
+"publishedAt": "2024-10-04T01:33:27Z",
+"content": "EU countries are expected to confirm Friday hefty tariffs on electric cars made in China, a move dividing the bloc as some states led by Germany fear sparking a trade war with Beijing.\r\nThe European … [+3182 chars]"
+}
+]
+}
+
+arrow_back
+Top business headlines in the US right now
+
+arrow_forward
+GET
+https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=e834a8accc0c407a98f13bca3c543b2e
+{
+"status": "ok",
+"totalResults": 35,
+-"articles": [
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Karen Friar",
+"title": "Stock market today: Stocks climb after jobs report's massive beat, unemployment rate dip - Yahoo Finance",
+"description": "Investors braced for a key monthly jobs report, with the Middle East crisis and a return to work at US ports also in high focus.",
+"url": "https://finance.yahoo.com/news/live/stock-market-today-stocks-climb-after-jobs-reports-massive-beat-unemployment-rate-dip-133053687.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/DM0_fJMz5UiE8KjxhCPtrA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/eee6c6f0-5ec3-11ef-bfff-ac5a36ecc3a9",
+"publishedAt": "2024-10-04T14:15:00Z",
+"content": "Stocks climbed on Friday as investors welcomed a key monthly jobs report that showed hiring remains robust in the US economy. The Middle East crisis and a return to work at US ports also stayed in hi… [+5337 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": null,
+"title": "Electric cars: EU hits China with tariffs in battle for sales - BBC.com",
+"description": "The vote risks sparking a trade war as the EU looks to protect its own car makers.",
+"url": "https://www.bbc.com/news/articles/cly20n4d0g9o",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c63b/live/e8bb6010-823b-11ef-869d-c917f0d913e0.jpg",
+"publishedAt": "2024-10-04T14:02:35Z",
+"content": "Big taxes will be imposed on imports of electric vehicles from China to the EU after the majority of member states backed the plans.\r\nThe move to introduce tariffs aims to protect the European car in… [+4453 chars]"
+},
+-{
+-"source": {
+"id": "bloomberg",
+"name": "Bloomberg"
+},
+"author": "Vinicy Chan, Dong Cao, Benoit Berthelot",
+"title": "Tencent, Guillemot Family Are Said to Consider Buyout of Ubisoft - Bloomberg",
+"description": "Tencent Holdings Ltd. and Ubisoft Entertainment SA’s founding Guillemot family are considering options including a potential buyout of the French video game developer after it lost more than half its market value this year, according to people familiar with t…",
+"url": "https://www.bloomberg.com/news/articles/2024-10-04/tencent-guillemot-family-are-said-to-consider-buyout-of-ubisoft",
+"urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMMwgpzJ_E4E/v1/1200x800.jpg",
+"publishedAt": "2024-10-04T13:47:12Z",
+"content": "Tencent Holdings Ltd. and Ubisoft Entertainment SAs founding Guillemot family are considering options including a potential buyout of the French video game developer after it lost more than half its … [+414 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "MICHELLE CHAPMAN",
+"title": "Chief operating officer of Truth Social's parent company resigns - Yahoo Finance",
+"description": "The chief operating officer of Truth Social's parent company has resigned and the company must hand over almost 800,000 shares to one of its investors as...",
+"url": "https://finance.yahoo.com/news/chief-operating-officer-truth-socials-122425134.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/zVR8SYizIzQRra5p0f7KoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/ap_finance_articles_694/1e23d88b18edba1328b6fcc08891e080",
+"publishedAt": "2024-10-04T13:20:49Z",
+"content": "The chief operating officer of Truth Social's parent company has resigned and the company must hand over almost 800,000 shares to one of its investors as part of a court ruling, according to a regula… [+2022 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Michael Wayland",
+"title": "Rivian shares fall after EV maker slashes production forecast, misses Q3 delivery expectations - CNBC",
+"description": "Rivian produced 13,157 vehicles at its manufacturing facility in Normal, Illinois and delivered 10,018 vehicles during the same period.",
+"url": "https://www.cnbc.com/2024/10/04/rivian-lowers-production-forecast-misses-q3-delivery-expectations.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/108015626-17226075032024-06-21t000000z_1231240055_rc2sf8a5sgav_rtrmadp_0_rivian-electric.jpeg?v=1722607565&w=1920&h=1080",
+"publishedAt": "2024-10-04T12:21:17Z",
+"content": "Shares of Rivian Automotive dropped about 4% in early trading Friday after the electric vehicle startup delivered fewer vehicles in the third quarter than analysts had expected and lowered its annual… [+1780 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investopedia"
+},
+"author": "Stephen Wisnefski",
+"title": "Dow Jones Today: Stock Futures Rise Ahead of Highly Anticipated Jobs Report - Investopedia",
+"description": "Stocks gained ground in early trading Friday after a highly anticipated labor market report showed that U.S. employers added far more jobs than expected in September.",
+"url": "https://www.investopedia.com/dow-jones-today-10042024-8723235",
+"urlToImage": "https://www.investopedia.com/thmb/rWFOQ1FypLRr_h3qa9mbb9f56Q8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2176503248-dc6507f2edf24e50bc0d31772bb3054b.jpg",
+"publishedAt": "2024-10-04T11:57:05Z",
+"content": "Stocks gained ground in early trading Friday after a highly anticipated labor market report showed that U.S. employers added far more jobs than expected in September, while the unemployment rate fell… [+2287 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "WXII12 Winston-Salem"
+},
+"author": "Carolyn Conte",
+"title": "Biggest supplier of IV fluids is hit by Helene - WXII12 Winston-Salem",
+"description": "Baxter is the primary maker of IV fluids in the U.S., accounting for about 60% of the market.",
+"url": "https://www.wxii12.com/article/north-carolina-hurricane-helene-iv-fluid-shortage-baxter-plant-closure/62509600",
+"urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/screenshot-2024-10-04-070317-66ffcb7af04de.png?crop=1.00xw:0.854xh;0,0&resize=1200:*",
+"publishedAt": "2024-10-04T11:44:00Z",
+"content": "N.C. —Hospitals across the U.S. are conserving their supplies of IV fluids after Hurricane Helene struck a critical manufacturing plant belonging to the countrys biggest supplier, according to NBC.\r\n… [+1411 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "MarketWatch"
+},
+"author": "MarketWatch",
+"title": "Why one foreigner expects the U.S. to reclaim its stock-market dominance - MarketWatch",
+"description": null,
+"url": "https://www.marketwatch.com/story/why-one-foreigner-expects-the-u-s-to-reclaim-its-stock-market-dominance-5bc24294",
+"urlToImage": null,
+"publishedAt": "2024-10-04T10:40:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Fox Business"
+},
+"author": "Lindsay Kornick",
+"title": "Toyota follows growing trend of companies halting DEI policies and initiatives - Fox Business",
+"description": "An alleged memo to Toyota employees Thursday said it would stop sponsoring LGBTQ events and begin focusing more on “STEM education and workforce readiness.\"",
+"url": "https://www.foxbusiness.com/media/toyota-follows-growing-trend-companies-halting-dei-policies-initiatives",
+"urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/0/0/TY-3.jpg?ve=1&tl=1",
+"publishedAt": "2024-10-04T10:30:00Z",
+"content": "Toyota Motor Corp. is planning to move away from DEI and pro-LGBTQ events after recently facing online controversy, according to a new report.\r\nBloomberg reported the company sent out a memo to its U… [+3382 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Pratyush Thakur",
+"title": "Spirit Airlines shares plunge on report of potential bankruptcy filing - Yahoo Finance",
+"description": "(Reuters) -Spirit Airlines shares slumped 40% before the bell on Friday after the Wall Street Journal reported that the ultra-low-cost carrier was in talks...",
+"url": "https://finance.yahoo.com/news/spirit-airlines-shares-plunge-report-102623768.html/",
+"urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+"publishedAt": "2024-10-04T10:26:23Z",
+"content": "Spirit Airlines (SAVE) shares slumped 40% before the bell on Friday after the Wall Street Journal reported that the ultra-low-cost carrier was in talks with its bondholders about a potential bankrupt… [+1350 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Annika Kim Constantino",
+"title": "CVS is under pressure and considering a break up. Here's why that could be risky - CNBC",
+"description": "A breakup would be a stunning reversal for CVS, which has spent tens of billions of dollars on acquisitions to turn itself into a one-stop health destination.",
+"url": "https://www.cnbc.com/2024/10/04/cvs-is-considering-a-break-up-heres-why-that-could-be-risky.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107370862-1707406285299-gettyimages-1993770592-jr020857_3lzeu8zf.jpeg?v=1707406387&w=1920&h=1080",
+"publishedAt": "2024-10-04T10:00:01Z",
+"content": "A sign outside of a CVS pharmacy store on February 07, 2024 in Miami, Florida. \r\nIt's time for a wellness check at CVS Health.\r\nShares of the company are down more than 20% this year as it grapples w… [+12342 chars]"
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "Charlotte Observer",
+"title": "Thousands still in the dark in Asheville post-Helene. Duke Energy has a temporary fix - Charlotte Observer",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxVEZ4cWVqZnN3OWhQR0gwMlFVdEJSWlpOZHpTQlZ0VWVXMmxXUHJ6aFlRbmc2blBuVC0zWC1Hc1hPMTNaOXEyNVRWaDdEYktDVDl6R3lEdkxFenpVZElfZUNtZzVQUFVCQ29ta0I4VlF0YVViRmoyU1lIU1p4Z9IBfkFVX3lxTE0tQ0JMR3NoODNmOEVHSjBzQjZTVWJaODBuRkpwak1SZlNfdFI5empKRktYUXdpa3J6QVM1LVRMVVBFZ2VaVnc1ZHBSRkl2UFN1WC0yMkkySk1jQmVWNlFVNnVmdnA4UWZzZmxOczJPTnJmNm00c0RGUEV3T2VqQQ?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-10-04T10:00:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "OilPrice.com"
+},
+"author": "Tsvetana Paraskova",
+"title": "Goldman Sachs Sees $20 Upside to Oil Prices on Iran Supply Shock - OilPrice.com",
+"description": "Goldman Sachs warns that oil prices could surge by $20 per barrel if Iran's oil supply is disrupted due to the Middle East conflict.",
+"url": "https://oilprice.com/Energy/Energy-General/Goldman-Sachs-Sees-20-Upside-to-Oil-Prices-on-Iran-Supply-Shock.html",
+"urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-10-04_b4ztyiclry.jpg",
+"publishedAt": "2024-10-04T09:32:00Z",
+"content": "The U.S. government is investing…\r\nLibya is set to resume…\r\nLithium-ion battery prices have fallen…\r\nBy Tsvetana Paraskova - Oct 04, 2024, 4:32 AM CDT\r\nInternational crude oil prices could surge by $… [+2192 chars]"
+},
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": "Reuters",
+"title": "US port strike ends leaving cargo backlog - Reuters",
+"description": null,
+"url": "https://www.reuters.com/world/us/us-port-strike-ends-clearing-long-ship-queues-will-take-time-2024-10-04/",
+"urlToImage": null,
+"publishedAt": "2024-10-04T08:39:32Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Karen Gilchrist",
+"title": "Maersk slumps 7% as the end of U.S. port strikes weighs on European shipping stocks - CNBC",
+"description": "Shares of Moller-Maersk slumped more than 8% Friday as European shipping companies fell on the conclusion of a U.S. port strike.",
+"url": "https://www.cnbc.com/2024/10/04/maersk-slumps-8percent-as-the-end-of-us-port-strikes-weighs-on-european-shippers.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/108043072-1727986716718-gettyimages-2176501371-dji_20241003154451_0013_d_tkyeisgc.jpeg?v=1727986787&w=1920&h=1080",
+"publishedAt": "2024-10-04T07:33:42Z",
+"content": "Shares of Moller-Maersk slumped more than 8% on the Friday market open as European shipping companies fell on the conclusion of a U.S. port strike.\r\nA major union for U.S. dockworkers and the United … [+1687 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Benzinga"
+},
+"author": "Shanthi Rexaline",
+"title": "Mark Zuckerberg Bulldozes Past Jeff Bezos To Become World's 2nd Richest Person As Meta Stock Soars: Is Musk's Top Spot In Jeopardy? - Benzinga",
+"description": "Meta has ridden the technology trend and extricated itself after the post-COVID-19 swoon and the stock has seen accelerated upward momentum in recent sessions.",
+"url": "https://www.benzinga.com/markets/equities/24/10/41179608/mark-zuckerberg-bulldozes-past-jeff-bezos-to-become-worlds-2nd-richest-person-as-meta-stock-soar",
+"urlToImage": "https://cdn.benzinga.com/files/images/story/2024/10/04/Mark-Zuckerberg.jpeg?width=1200&height=800&fit=crop",
+"publishedAt": "2024-10-04T06:42:04Z",
+"content": "Meta Platforms, Inc.META has been the second best-performing Magnificent 7 stock this year after artificial intelligence stalwart Nvidia Corp. NVDA. The stock rally has nudged its co-founder and CEO,… [+4924 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Jenni Reid",
+"title": "10-year Treasury yield soars after jobs report blows past expectations - CNBC",
+"description": "In Friday's report, nonfarm payrolls grew by 254,000 in September, significantly exceeding economists' expectations.",
+"url": "https://www.cnbc.com/2024/10/04/treasury-yields-september-jobs-report.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/108043077-1727987131300-gettyimages-2176503197-ms2_7533_fmfb8hrz.jpeg?v=1727987313&w=1920&h=1080",
+"publishedAt": "2024-10-04T06:38:29Z",
+"content": "U.S. Treasury yields jumped Friday as investors digested a better-than-expected September jobs report.\r\nThe 10-year Treasury yield was higher more than 9 basis points at 3.946%, while the yield on th… [+1535 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "KTLA Los Angeles"
+},
+"author": "Vivian Chow",
+"title": "Amazon hiring thousands of workers across Southern California - KTLA Los Angeles",
+"description": "Those looking for a new job can join Amazon as the company is looking to hire thousands of new workers across Southern California. The massive e-commerce company is hiring more than 3,000 seasonal roles in the Los Angeles, Long Beach and Anaheim areas. Across…",
+"url": "https://ktla.com/news/local-news/amazon-hiring-thousands-across-southern-california/",
+"urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/10/GettyImages-1065011338.jpg?w=1280",
+"publishedAt": "2024-10-04T04:47:20Z",
+"content": "Those looking for a new job can join Amazon as the company is looking to hire thousands of new workers across Southern California.\r\nThe massive e-commerce company is hiring more than 3,000 seasonal r… [+3974 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Madison Mills",
+"title": "Mortgage rates tick higher, market takeaways: Asking for a Trend - Yahoo Finance",
+"description": "On the latest Asking for a Trend: The average rate on a 30-year fixed mortgage rose slightly for the week ending October 3. Yahoo Finance Senior Reporter...",
+"url": "https://finance.yahoo.com/video/mortgage-rates-tick-higher-market-034450090.html/",
+"urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+"publishedAt": "2024-10-04T03:44:00Z",
+"content": "On the latest Asking for a Trend:\r\nThe average rate on a 30-year fixed mortgage rose slightly for the week ending October 3. Yahoo Finance Senior Reporter Claire Boston breaks the data down.\r\nIntuit … [+361 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Anniek Bao, Sonia Heng",
+"title": "China's stimulus rally has already sent stocks up 25%. And there could be more to come - CNBC",
+"description": "Mainland markets is closed for a week-long holiday commemorating the 75th anniversary of the People's Republic of China. Trading is set to resume on Oct. 8.",
+"url": "https://www.cnbc.com/2024/10/04/chinas-stimulus-rally-has-already-sent-stocks-up-25percent-and-there-could-be-more-to-come.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107214470-1679622214288-gettyimages-1247853119-Lujiazui_Street.jpeg?v=1728000711&w=1920&h=1080",
+"publishedAt": "2024-10-04T00:53:00Z",
+"content": "SHANGHAI, CHINA - MARCH 7, 2023 - The Oriental Pearl Tower, Shanghai Tower, Jinmao Tower and World Financial Center are seen on Lujiazui Street, Shanghai, China, March 7, 2023.\r\nChina stocks will kee… [+4620 chars]"
+}
+]
+}
+
+arrow_back
+Top headlines from TechCrunch right now
+
+arrow_forward
+GET
+https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=e834a8accc0c407a98f13bca3c543b2e
+{
+"status": "ok",
+"totalResults": 10,
+-"articles": [
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Lauren Forristal",
+"title": "Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch",
+"description": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI Research company Altera raised $9 million to build AI agents that can play video games alongside other player…",
+"url": "https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+"publishedAt": "2024-05-08T15:14:57Z",
+"content": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI agents.\r\nThe company announced Wednesday that it … [+6416 chars]"
+},
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Alex Wilhelm and Theresa Loconsolo",
+"title": "$450M for Noname, two billion-dollar rounds, and good news for crypto startups | TechCrunch",
+"description": "This morning on Equity, not only do we have good news for crypto founders, we're also digging into Akamai spending $450 million for API security firm Noname, and billion dollar deals from Wiz and Wayve.",
+"url": "https://techcrunch.com/2024/05/08/450m-for-noname-two-billion-dollar-rounds-and-good-news-for-crypto-startups/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-942480316.jpg?resize=1200,835",
+"publishedAt": "2024-05-08T15:01:51Z",
+"content": "Good news, crypto founders: Venture capital activity is picking up in your sector after falling to multi-year lows in late 2023. Put another way, venture folks appear more web3-bullish than before, e… [+1599 chars]"
+},
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Alex Wilhelm",
+"title": "Watch: When did iPads get as expensive as MacBooks?",
+"description": "Would you switch out your MacBook for an iPad with an M4 chip and OLED display? With the increase in price, Apple seems to be arguing these are comparable but we’re curious to see if consumers will make the change.",
+"url": "https://techcrunch.com/2024/05/08/techcrunch-minute-when-did-ipads-get-as-expensive-as-macbooks/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/ipad-noplay.png?resize=1200,675",
+"publishedAt": "2024-05-08T14:52:26Z",
+"content": "Apple’s iPad event had a lot to like. New iPads with new chips and new sizes, a new Apple Pencil, and even some software updates. If you are a big fan of Apple hardware, well, it was probably a good … [+1385 chars]"
+},
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Rebecca Bellan",
+"title": "Uber promises member exclusives as Uber One passes $1B run-rate | TechCrunch",
+"description": "Uber plans to deliver more perks to Uber One members, like member-exclusive events, in a bid to gain more revenue through subscriptions.  “You will see",
+"url": "https://techcrunch.com/2024/05/08/uber-promises-member-exclusives-as-uber-one-passes-1b-run-rate/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1142304853-a.jpg?resize=1200,675",
+"publishedAt": "2024-05-08T14:41:36Z",
+"content": "Uber plans to deliver more perks to Uber One members, like member-exclusive events, in a bid to gain more revenue through subscriptions. \r\nYou will see more member-exclusives coming up where members … [+4676 chars]"
+},
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Mike Butcher",
+"title": "Checkfirst raises $1.5M pre-seed, applying AI to remote inspections and audits | TechCrunch",
+"description": "Checkfirst enables businesses to schedule inspectors based on geographical location and qualifications, in addition to allowing for remote inspections.",
+"url": "https://techcrunch.com/2024/05/08/checkfirst-raises-1-5m-pre-seed-applying-ai-to-remote-inspections-and-audits/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Checkfirst-team.jpg?w=960",
+"publishedAt": "2024-05-08T13:02:12Z",
+"content": "Weve all seen them. The inspector with a clipboard, walking around a building, ticking off the last time the fire extinguishers were checked, or if all the lights are working. They work in the TICC (… [+3279 chars]"
+},
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Paul Sawers",
+"title": "UK challenger bank Monzo nabs another $190M as US expansion beckons | TechCrunch",
+"description": "Monzo has raised another $190 million, as the challenger bank looks to expand its presence internationally — particularly in the U.S.",
+"url": "https://techcrunch.com/2024/05/08/uk-challenger-bank-monzo-nabs-another-190m-at-5-2b-valuation/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1259121938-e1715164252704.jpg?resize=1200,676",
+"publishedAt": "2024-05-08T12:34:05Z",
+"content": "Monzo has raised another £150 million ($190 million), as the challenger bank looks to expand its presence internationally particularly in the U.S.\r\nThe new round comes just two months after Monzo rai… [+1960 chars]"
+},
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Brian Heater",
+"title": "iRobot names former Timex head Gary Cohen as CEO | TechCrunch",
+"description": "iRobot Tuesday announced the successor to longtime CEO, Colin Angle. Gary Cohen, who previous held chief executive role at Timex and Qualitor Automotive,",
+"url": "https://techcrunch.com/2024/05/08/irobot-names-former-timex-head-gary-cohen-as-ceo/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-7.19.50 AM.jpg?resize=1200,919",
+"publishedAt": "2024-05-08T12:22:30Z",
+"content": "iRobot Tuesday announced the successor to longtime CEO, Colin Angle. Gary Cohen, who previous held chief executive role at Timex and Qualitor Automotive, will be heading up the company, marking a maj… [+2120 chars]"
+},
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Devin Coldewey",
+"title": "Google Deepmind debuts huge AlphaFold update and free proteomics-as-a-service web app | TechCrunch",
+"description": "Google Deepmind has taken the wraps off a new version AlphaFold, their transformative machine learning model that predicts the shape and behavior of",
+"url": "https://techcrunch.com/2024/05/08/google-deepmind-debuts-huge-alphafold-update-and-free-proteomics-as-a-service-web-app/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/alphafold-3-deepmind.jpg?resize=1200,675",
+"publishedAt": "2024-05-07T22:10:14Z",
+"content": "Google Deepmind has taken the wraps off a new version AlphaFold, their transformative machine learning model that predicts the shape and behavior of proteins. AlphaFold 3 is not only more accurate, b… [+7069 chars]"
+},
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Tim De Chant",
+"title": "Mycocycle uses mushrooms to upcycle old tires and construction waste | TechCrunch",
+"description": "The startup's fungi use their mycelium to consume oil-based rubbers and plastics, creating new bio-based materials in the process.",
+"url": "https://techcrunch.com/2024/05/08/mycocycle-uses-mushrooms-to-upcycle-old-tires-and-construction-waste/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1350655821.jpeg?resize=1200,796",
+"publishedAt": "2024-05-07T18:07:09Z",
+"content": "Usually, when something starts to rot, it gets pitched in the trash. But Joanne Rodriguez wants to turn the concept of rot on its head by growing fungus on trash to turn it into something better.\r\nWe… [+4229 chars]"
+},
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Kyle Wiggers",
+"title": "Controversial drone company Xtend leans into defense with new $40M round | TechCrunch",
+"description": "Xtend, a drone company heavily involved with defense customers, has raised a new round of capital to expand its operations.",
+"url": "https://techcrunch.com/2024/05/08/controversial-drone-company-xtend-leans-into-defense/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/wildfire_drone_web.jpg?w=900",
+"publishedAt": "2024-05-07T18:01:34Z",
+"content": "Close to a decade ago, brothers Aviv and Matteo Shapira co-founded Replay, a company that created a video format for 360-degree replays — the sorts of replays that have become part and parcel of majo… [+5398 chars]"
+}
+]
+}
+
+arrow_back
+All articles published by the Wall Street Journal in the last 6 months, sorted by recent first
+GET
+https://newsapi.org/v2/everything?domains=wsj.com&apiKey=e834a8accc0c407a98f13bca3c543b2e
+{
+"status": "ok",
+"totalResults": 2,
+-"articles": [
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "John Gruber",
+"title": "WSJ: ‘Apple Is No Longer in Talks to Join OpenAI Investment Round’",
+"description": null,
+"url": "https://www.wsj.com/tech/apple-no-longer-in-talks-to-join-openai-investment-round-e3be3e66",
+"urlToImage": null,
+"publishedAt": "2024-09-28T18:46:15Z",
+"content": "Tom Dotan and Berber Jin, reporting late last night for The Wall Street Journal (News+):\n\n\n Apple is no longer in talks to participate in an OpenAI funding\nround expected to raise as much as $6.5 bil… [+1369 chars]"
+},
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "David Uberti and Nick Timiraos",
+"title": "Employers Added 142,000 Jobs, Missing Expectations, Though Unemployment Ticked Down",
+"description": "U.S. job growth rebounded slightly in August after a midsummer scare, but a mixed reading provided little clarity as to how aggressively the Federal Reserve ...",
+"url": "https://www.wsj.com/economy/jobs/jobs-report-august-unemployment-economy-b869cf39",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/WcYbld7xPRBhfuY6JgkjIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/955b2ca1729c1eafea677bd5cf8d4ef1",
+"publishedAt": "2024-09-06T13:12:00Z",
+"content": "Fridays report undershot economists expectations for jobs growth. - Bloomberg News\r\nU.S. job growth rebounded in August from levels that were softer than initially reported this summer, leaving the F… [+3066 chars]"
+}
+]
+}
